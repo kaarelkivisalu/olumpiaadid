@@ -1,0 +1,599 @@
+
+<!-- saved from url=(0047)http://www.ttkool.ut.ee/comp/olymp/io98v3vt.htm -->
+<html lang="et" class="gr__ttkool_ut_ee"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+
+<meta name="subject" content="Programmeerimisolümpiaad">
+<title> 15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused.</title>
+<link rel="stylesheet" href="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/style.css" type="pics/css">
+<script language="JavaScript" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/script.js"></script>
+<script type="text/javascript">// Promises 
+var _eid_promises = {}; 
+// Turn the incoming message from extension 
+// into pending Promise resolving 
+window.addEventListener("message", function(event) { 
+    if(event.source !== window) return; 
+    if(event.data.src && (event.data.src === "background.js")) { 
+        console.log("Page received: "); 
+        console.log(event.data); 
+        // Get the promise 
+        if(event.data.nonce) { 
+            var p = _eid_promises[event.data.nonce]; 
+            // resolve 
+            if(event.data.result === "ok") { 
+                if(event.data.signature !== undefined) { 
+                    p.resolve({hex: event.data.signature}); 
+                } else if(event.data.version !== undefined) { 
+                    p.resolve(event.data.extension + "/" + event.data.version); 
+                } else if(event.data.cert !== undefined) { 
+                    p.resolve({hex: event.data.cert}); 
+                } else { 
+                    console.log("No idea how to handle message"); 
+                    console.log(event.data); 
+                } 
+            } else { 
+                // reject 
+                p.reject(new Error(event.data.result)); 
+            } 
+            delete _eid_promises[event.data.nonce]; 
+        } else { 
+            console.log("No nonce in event msg"); 
+        } 
+    } 
+}, false); 
+ 
+ 
+function TokenSigning() { 
+    function nonce() { 
+        var val = ""; 
+        var hex = "abcdefghijklmnopqrstuvwxyz0123456789"; 
+        for(var i = 0; i < 16; i++) val += hex.charAt(Math.floor(Math.random() * hex.length)); 
+        return val; 
+    } 
+ 
+    function messagePromise(msg) { 
+        return new Promise(function(resolve, reject) { 
+            // amend with necessary metadata 
+            msg["nonce"] = nonce(); 
+            msg["src"] = "page.js"; 
+            // send message 
+            window.postMessage(msg, "*"); 
+            // and store promise callbacks 
+            _eid_promises[msg.nonce] = { 
+                resolve: resolve, 
+                reject: reject 
+            }; 
+        }); 
+    } 
+    this.getCertificate = function(options) { 
+        var msg = {type: "CERT", lang: options.lang, filter: options.filter}; 
+        console.log("getCertificate()"); 
+        return messagePromise(msg); 
+    }; 
+    this.sign = function(cert, hash, options) { 
+        var msg = {type: "SIGN", cert: cert.hex, hash: hash.hex, hashtype: hash.type, lang: options.lang, info: options.info}; 
+        console.log("sign()"); 
+        return messagePromise(msg); 
+    }; 
+    this.getVersion = function() { 
+        console.log("getVersion()"); 
+        return messagePromise({ 
+            type: "VERSION" 
+        }); 
+    }; 
+}</script></head>
+
+<!--------------------------------------------------------->
+
+<body background="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/background.gif" data-gr-c-s-loaded="true">
+
+<table cellspacing="3" width="600"><tbody><tr><td colspan="2">
+<a href="http://www.ttkool.ut.ee/comp/olymp/index.html"><img align="top" vspace="0" border="0" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/title.gif"></a>
+<a href="http://www.ttkool.ut.ee/math/olymp/index.html" onmouseover="changeToRed(&#39;matemaatika&#39;)" onmouseout="changeToWhite(&#39;matemaatika&#39;)"><img name="matemaatika" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/matemaatika_white.gif" border="0" align="left" hspace="0" alt="Eesti koolinoorte matemaatikaolümpiaadidid" width="91" height="21"></a>
+<img hspace="0" align="left" width="1" height="21" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/valge.gif">
+<a href="http://www.ttkool.ut.ee/comp/olymp/index.html" onmouseover="changeToRed(&#39;informaatika&#39;)" onmouseout="changeToWhite(&#39;informaatika&#39;)"><img name="informaatika" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/informaatika_white.gif" border="0" hspace="0" align="left" alt="Eesti koolinoorte informaatikaolümpiaadid" width="87" height="21"></a>
+<img hspace="0" align="left" width="1" height="21" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/valge.gif">
+<a href="http://www.ttkool.ut.ee/phys/olymp/index.html" onmouseover="changeToRed(&#39;physics&#39;)" onmouseout="changeToWhite(&#39;physics&#39;)"><img name="physics" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/physics_white.gif" border="0" align="left" hspace="0" alt="Eesti koolinoorte füüsikaolümpiaadid" width="58" height="21"></a>
+<img hspace="0" align="left" width="1" height="21" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/valge.gif">
+<a href="http://www.ttkool.ut.ee/chem/olymp/index.html" onmouseover="changeToRed(&#39;keemia&#39;)" onmouseout="changeToWhite(&#39;keemia&#39;)"><img name="keemia" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/keemia_white.gif" border="0" align="left" hspace="0" alt="Eesti koolinoorte keemiaolümpiaadid" width="58" height="21"></a>
+<img hspace="0" align="left" width="1" height="21" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/valge.gif">
+<a href="http://www.ttkool.ut.ee/astr/index.html" onmouseover="changeToRed(&#39;astronoomia&#39;)" onmouseout="changeToWhite(&#39;astronoomia&#39;)"><img name="astronoomia" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/astronoomia_white.gif" border="0" hspace="0" align="left" alt="Astronoomiahuvilistele" width="87" height="21"></a>
+<img hspace="0" align="left" width="1" height="21" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/valge.gif">
+<a href="http://www.ttkool.ut.ee/bio/index.html" onmouseover="changeToRed(&#39;bioloogia&#39;)" onmouseout="changeToWhite(&#39;bioloogia&#39;)"><img name="bioloogia" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/bioloogia_white.gif" border="0" hspace="0" align="left" alt="Eesti koolinoorte bioloogiaolümpiaadid" width="67" height="21"></a>
+<img hspace="0" align="left" width="1" height="21" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/valge.gif">
+<a href="http://www.ttkool.ut.ee/geo/index.html" onmouseover="changeToRed(&#39;geograafia&#39;)" onmouseout="changeToWhite(&#39;geograafia&#39;)"><img name="geograafia" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/geograafia_white.gif" border="0" hspace="0" align="left" alt="Eesti koolinoorte geograafiaolümpiaadid" width="81" height="21"></a>
+<img hspace="0" align="left" width="1" height="21" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/valge.gif">
+<a href="http://www.ttkool.ut.ee/comp/index.html" onmouseover="changeToRed(&#39;tagasi&#39;)" onmouseout="changeToWhite(&#39;tagasi&#39;)"><img name="tagasi" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/tagasi_white.gif" hspace="0" border="0" align="left" alt="Täppisteaduste Kooli informaatikaosakond" width="57" height="21"></a>
+</td></tr></tbody></table>
+
+<!--------------------------------------------------------->
+
+<table cellpadding="20" cellspacing="3" width="600">
+
+<tbody><tr><td background="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/valge.gif" valign="top" bgcolor="#ffffff"><br>
+
+<!--------------------------------------------------------->
+
+<p align="center"><font color="#000080" size="4" face="Verdana"><em>15.
+märts 1998. a.</em></font></p>
+
+<p></p><center><b><font color="#000080" size="4" face="Verdana">Lõppvooru
+vanema rühma tulemused</font></b></center><p></p>
+
+<hr size="1">
+
+<p align="center"><font size="2" face="Verdana">Vanemas vanuserühmas osales 47
+õpilast, siinkohal avaldatud on nullist erinevad tulemused. Tabelis "K" tähistab klassi, "S" -- summat ja "A" -- auhinda.</font></p>
+
+<hr size="1">
+
+<p></p><center><table border="1" cellpadding="5" cellspacing="1" width="555">
+    <tbody><tr>
+        <td align="center"><font color="#000080" size="2" face="Verdana"><strong>Nimi</strong></font></td>
+        <td align="center"><font color="#000080" size="2" face="Verdana"><strong>Kool</strong></font></td>
+        <td align="center"><font color="#000080" size="2" face="Verdana"><strong>K</strong></font></td>
+        <td align="center"><font color="#000080" size="2" face="Verdana"><strong>1</strong></font></td>
+        <td align="center"><font color="#000080" size="2" face="Verdana"><strong>2</strong></font></td>
+        <td align="center"><font color="#000080" size="2" face="Verdana"><strong>3</strong></font></td>
+        <td align="center"><font color="#000080" size="2" face="Verdana"><strong>S</strong></font></td>
+        <td align="center"><font color="#000080" size="2" face="Verdana"><strong>A</strong></font></td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Vasser, Meelis</font></td>
+        <td><font size="2" face="Verdana">Tallinna Ärigümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">21</font></td>
+        <td align="center"><font size="2" face="Verdana">25</font></td>
+        <td align="center"><font size="2" face="Verdana">38</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>84</strong></font></td>
+        <td align="center"><font size="2" face="Verdana">I</font></td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Sarv, Jaak</font></td>
+        <td><font size="2" face="Verdana">Gustav Adolfi Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">30</font></td>
+        <td align="center"><font size="2" face="Verdana">38</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>80</strong></font></td>
+        <td align="center"><font size="2" face="Verdana">II</font></td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Kull, Meelis</font></td>
+        <td><font size="2" face="Verdana">Miina Härma Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">21</font></td>
+        <td align="center"><font size="2" face="Verdana">20</font></td>
+        <td align="center"><font size="2" face="Verdana">33</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>74</strong></font></td>
+        <td align="center"><font size="2" face="Verdana">III</font></td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Berg, Allan</font></td>
+        <td><font size="2" face="Verdana">Parksepa Keskkool</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">21</font></td>
+        <td align="center"><font size="2" face="Verdana">15</font></td>
+        <td align="center"><font size="2" face="Verdana">37</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>73</strong></font></td>
+        <td align="center"><font size="2" face="Verdana">III</font></td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Lõhmus, Lenar</font></td>
+        <td><font size="2" face="Verdana">Hugo Treffneri Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">25</font></td>
+        <td align="center"><font size="2" face="Verdana">33</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>70</strong></font></td>
+        <td align="center"><font size="2" face="Verdana">III</font></td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Pruulmann, Jaak</font></td>
+        <td><font size="2" face="Verdana">Hugo Treffneri Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">9</font></td>
+        <td align="center"><font size="2" face="Verdana">25</font></td>
+        <td align="center"><font size="2" face="Verdana">36</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>70</strong></font></td>
+        <td align="center"><font size="2" face="Verdana">III</font></td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Lepp, Dmitri</font></td>
+        <td><font size="2" face="Verdana">Tartu Annelinna Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">15</font></td>
+        <td align="center"><font size="2" face="Verdana">10</font></td>
+        <td align="center"><font size="2" face="Verdana">39</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>64</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Lubi, Lauri</font></td>
+        <td><font size="2" face="Verdana">Pärnu Ühisgümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">24</font></td>
+        <td align="center"><font size="2" face="Verdana">15</font></td>
+        <td align="center"><font size="2" face="Verdana">24</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>63</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Levenko, Aleksei</font></td>
+        <td><font size="2" face="Verdana">Tallinna Tõnismäe
+        Reaalkool</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">27</font></td>
+        <td align="center"><font size="2" face="Verdana">10</font></td>
+        <td align="center"><font size="2" face="Verdana">20</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>57</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Šitov, Sergei</font></td>
+        <td><font size="2" face="Verdana">Sillamäe 5. Keskkool</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">25</font></td>
+        <td align="center"><font size="2" face="Verdana">32</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>57</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Kerm, Ilmar</font></td>
+        <td><font size="2" face="Verdana">Kuusalu Keskkool</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">30</font></td>
+        <td align="center"><font size="2" face="Verdana">14</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>56</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Soolo, Andres</font></td>
+        <td><font size="2" face="Verdana">C. R. Jakobsoni Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">3</font></td>
+        <td align="center"><font size="2" face="Verdana">15</font></td>
+        <td align="center"><font size="2" face="Verdana">33</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>51</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Legonkov, Ahti</font></td>
+        <td><font size="2" face="Verdana">Nõo Reaalgümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">15</font></td>
+        <td align="center"><font size="2" face="Verdana">3</font></td>
+        <td align="center"><font size="2" face="Verdana">33</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>51</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Belov, Daniel</font></td>
+        <td><font size="2" face="Verdana">Tallinna Inglise Kolledž</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">35</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>47</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Soomann, Pertti</font></td>
+        <td><font size="2" face="Verdana">Kilingi-Nõmme Keskkool</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">35</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>47</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Kase, Jaanus</font></td>
+        <td><font size="2" face="Verdana">Tallinna Inglise Kolledž</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">30</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>42</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Koosel, Raul</font></td>
+        <td><font size="2" face="Verdana">Viljandi Maagümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">9</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">32</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>41</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Olev, Meelis</font></td>
+        <td><font size="2" face="Verdana">Viljandi Maagümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">15</font></td>
+        <td align="center"><font size="2" face="Verdana">20</font></td>
+        <td align="center"><font size="2" face="Verdana">5</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>40</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Podpovedkin, Jegor</font></td>
+        <td><font size="2" face="Verdana">Narva Pähklimäe Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">27</font></td>
+        <td align="center"><font size="2" face="Verdana">10</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>37</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Salnikov, Nikita</font></td>
+        <td><font size="2" face="Verdana">Narva Pähklimäe Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">9</font></td>
+        <td align="center"><font size="2" face="Verdana">20</font></td>
+        <td align="center"><font size="2" face="Verdana">7</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>36</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Kaiv, Kristo</font></td>
+        <td><font size="2" face="Verdana">Nõo Reaalgümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">3</font></td>
+        <td align="center"><font size="2" face="Verdana">33</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>36</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Tint, Hando</font></td>
+        <td><font size="2" face="Verdana">Rakvere Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">10</font></td>
+        <td align="center"><font size="2" face="Verdana">24</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>34</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Paulus, Alari</font></td>
+        <td><font size="2" face="Verdana">Viljandi Maagümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">20</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>32</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Tšaštšin,
+        Vladimir</font></td>
+        <td><font size="2" face="Verdana">Narva Pähklimäe Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">9</font></td>
+        <td align="center"><font size="2" face="Verdana">8</font></td>
+        <td align="center"><font size="2" face="Verdana">13</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>30</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Vähhi, Pavel</font></td>
+        <td><font size="2" face="Verdana">Tallinna Juhkentali Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">20</font></td>
+        <td align="center"><font size="2" face="Verdana">10</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>30</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Issahhanjan, Vigen</font></td>
+        <td><font size="2" face="Verdana">Narva Pähklimäe Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">6</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">23</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>29</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Mitt, Alar</font></td>
+        <td><font size="2" face="Verdana">Pärnu Koidula Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">27</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>27</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Devadze, Sergei</font></td>
+        <td><font size="2" face="Verdana">Sillamäe 3. Keskkool</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">6</font></td>
+        <td align="center"><font size="2" face="Verdana">20</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>26</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Mirme, Sander</font></td>
+        <td><font size="2" face="Verdana">Hugo Treffneri Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">25</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>25</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Zinovjev, Jevgeni</font></td>
+        <td><font size="2" face="Verdana">Tallinna 45. Keskkool</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">3</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">16</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>19</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Vähk, Dmitri</font></td>
+        <td><font size="2" face="Verdana">Tartu Annelinna Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">9</font></td>
+        <td align="center"><font size="2" face="Verdana">8</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>17</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Seppam, Madis</font></td>
+        <td><font size="2" face="Verdana">Keila Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">3</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>15</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Repinski, Urmas</font></td>
+        <td><font size="2" face="Verdana">Ahtme Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">15</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>15</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Runnel, Klaus-Eduard</font></td>
+        <td><font size="2" face="Verdana">Miina Härma Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">6</font></td>
+        <td align="center"><font size="2" face="Verdana">8</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>14</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Valgeväli, Raido</font></td>
+        <td><font size="2" face="Verdana">Tallinna Reaalkool</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">3</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">10</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>13</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Leedjärv, Tõivo</font></td>
+        <td><font size="2" face="Verdana">Kuusalu Keskkool</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">6</font></td>
+        <td align="center"><font size="2" face="Verdana">5</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>11</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Solntsev, Andrei</font></td>
+        <td><font size="2" face="Verdana">Tallinna Tõnismäe
+        Reaalkool</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">6</font></td>
+        <td align="center"><font size="2" face="Verdana">5</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>11</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Karpištšenko,
+        Andre</font></td>
+        <td><font size="2" face="Verdana">Pärnu Koidula Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">6</font></td>
+        <td align="center"><font size="2" face="Verdana">3</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>9</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Massalõgin, Viktor</font></td>
+        <td><font size="2" face="Verdana">Kohtla-Järve Vene Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">9</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>9</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Gapejev, Andrei</font></td>
+        <td><font size="2" face="Verdana">Tartu Annelinna Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">7</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>7</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Boriskin, Maksim</font></td>
+        <td><font size="2" face="Verdana">Ahtme Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">6</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>6</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Hanschmidt, Ardo</font></td>
+        <td><font size="2" face="Verdana">Hugo Treffneri Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">11</font></td>
+        <td align="center"><font size="2" face="Verdana">6</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>6</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Kapp, Rait</font></td>
+        <td><font size="2" face="Verdana">Nõo Reaalgümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">3</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>3</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+    <tr>
+        <td><font size="2" face="Verdana">Korobeinik, Andrei</font></td>
+        <td><font size="2" face="Verdana">Pärnu Vene Gümnaasium</font></td>
+        <td align="center"><font size="2" face="Verdana">12</font></td>
+        <td align="center"><font size="2" face="Verdana">3</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana">0</font></td>
+        <td align="center"><font size="2" face="Verdana"><strong>3</strong></font></td>
+        <td align="center"><font size="2" face="Verdana"></font>&nbsp;</td>
+    </tr>
+</tbody></table></center>
+
+<hr size="1">
+
+<p align="center"><font size="1" face="Verdana">Palume saata
+kõik küsimused aadressil </font><a href="mailto:ttkool@ut.ee"><font size="1" face="Verdana"><b><i>ttkool@ut.ee</i></b></font></a><font size="1" face="Verdana"><br>
+Viimati muudetud: <i>28.01.1999. a.</i></font></p><br>
+
+</td></tr></tbody></table>
+
+
+
+
+
+
+</body><div><div class="gr_-editor gr-iframe-first-load" style="display: none;"><div class="gr_-editor_back"></div><iframe class="gr_-ifr gr-_dialog-content" src="./15.03.1998.a. Informaatikaolümpiaadi lõppvooru vanema rühma tulemused._files/saved_resource.html"></iframe></div></div><grammarly-card><div></div></grammarly-card><span class="gr__tooltip"><span class="gr__tooltip-content"></span><i class="gr__tooltip-logo"></i><span class="gr__triangle"></span></span></html>

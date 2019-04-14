@@ -1,0 +1,69 @@
+body {font-family: verdana,arial,sans-serif; margin-left: 0; margin-height: 0; margin-width: 0; margin-top: 0; margin-bottom: 0; background: #E5E5E5;}
+
+h1 {font-size: 14pt; color: darkred; text-align: center; font-family: verdana,arial,sans-serif;}
+
+h2 {font-size: 12pt; color: navy; text-align: center; font-family: verdana,arial,sans-serif;}
+
+h3 {font-size: 10pt; color: teal; text-align: left; font-family: verdana,arial,sans-serif;}
+
+h4 {font-size: 10pt; color: darkred; text-align: left; font-family: verdana,arial,sans-serif;}
+
+b.date {font-size: 10pt; color: darkred; text-align: left; font-family: verdana,arial,sans-serif;}
+
+h5 {font-size: 10pt; color: navy; text-align: left; font-family: verdana,arial,sans-serif;}
+
+a.section {font-size: 10pt; color: navy; text-align: left; font-family: verdana,arial,sans-serif; font-weight: bold;}
+
+h6 {font-size: 10pt; color: white; text-align: center; font-family: verdana,arial,sans-serif;}
+
+p  {font-size: 10pt; text-align: justify; font-family: verdana,arial,sans-serif;}
+
+p.center  {text-align: center;}
+
+td {font-size: 10pt; font-family: verdana,arial,sans-serif;}
+
+td.voorud {font-size: 10pt; color: darkred; text-align: left; font-family: verdana,arial,sans-serif; background: white; font-weight: bold;}
+
+td.toetajad {font-size: 14pt; color: gray; text-align: center; font-family: verdana,arial,sans-serif; background: white; font-weight: bold;}
+
+td.auhinnad {font-size: 14pt; color: teal; text-align: center; font-family: verdana,arial,sans-serif; background: white; font-weight: bold;}
+
+td.viga {font-size: 10pt; color: red; text-align: left; font-family: verdana,arial,sans-serif;}
+
+a.toetajad {font-size: 14pt; color: gray; text-align: center; font-family: verdana,arial,sans-serif; background: white; font-weight: bold;}
+
+h2.aasta {font-size: 12pt; color: navy; text-align: center; font-family: verdana,arial,sans-serif; font-weight: italic;}
+
+center {font-size: 10pt; text-align: center; font-family: verdana,arial,sans-serif;}
+
+th {font-size: 10pt; text-align: center; color: white; background: teal; font-family: verdana,arial,sans-serif;}
+
+td.topmenu {font-size: 10pt; text-align: center; color: #FFFFCC; background: navy; font-family: verdana,arial,sans-serif;}
+
+a.topmenu {font-size: 10pt; text-align: center; color: #FFFFCC; background: navy; font-family: verdana,arial,sans-serif;}
+
+a.uudised {font-size: 10pt; text-align: right; color: navy; background: #FFFFCC; font-family: verdana,arial,sans-serif; font-weight: bold;}
+
+small {font-size: 8pt; font-family: verdana,arial,sans-serif;}
+
+hr {color: navy; noshade;}
+
+a {text-decoration: none; }
+
+a:hover {color: red; text-decoration: underline; }
+
+a.topmenu:hover {font-size: 10pt; text-align: center; color: navy; background: #FFFFCC; font-family: verdana,arial,sans-serif; text-decoration: none;}
+
+a.leftmenu {font-size: 10pt; text-align: center; color: navy; background: white; font-family: verdana,arial,sans-serif;}
+
+a.leftmenu:hover {color: white; background: navy; text-decoration: none;}
+
+td.vasak,td.vasak table tr td {background: navy;}
+
+td.vasak table tr td a {background: none; font-size: 9pt; text-align: left; font-family: verdana,arial,sans-serif; color: white;}
+
+td.vasak table tr td a:hover {color: gold; style: strong;}
+
+A.temporary {
+	FONT-SIZE: 10pt; BACKGROUND: #ffffff; COLOR: #e5e5e5; FONT-FAMILY: verdana,arial,sans-serif; TEXT-DECORATION: none
+}
