@@ -1,0 +1,25 @@
+Andres Alumets	Pärnu Koidula Gümnaasium	10	Ants Alumets	X—14 7 7 7 7 7	35	I
+Martin Rahe	Tallinna Reaalkool	10	Helli Juurma	X—28 6 7 7 7 7	34	I
+Kertu Birgit Anton	Tallinna Reaalkool	10	Helli Juurma	X—04 6 7 7 6 7	33	II
+Kristjan-Erik Kahu	Miina Härma Gümnaasium	8	Janika Kaljula	X—19 6 7 7 6 7	33	II
+Lee Ann Madissoon	Tallinna Reaalkool	10	Kerli Kupits	X—20 6 7 7 6 7	33	11
+Andres Sõmer	Hugo Treffneri Gümnaasium	10	Ülle Hüva	X—26 4 7 7 7 7	32	11
+Joonatan Ristmäe	Hugo Treffneri Gümnaasium	10	Ülle Hüva	X—17 7 6 7 2 5	27	III
+Richard Friedrichs	Gustav Adolfi Gümnaasium	10	Riina Timmermann	X—09 6 7 5 6 1	25	III
+Diana Šramova	Tartu Kristjan Jaak Petersoni Gümnaasium	10	Mart Kallaste	X—18 3 6 7 6 3	25	III
+Nikolai Sovetnikov	Narva Pähklimäe Gümnaasium	10	Irina Stalnuhhina	X—27 7 3 7 1 7	25	III
+Kaur Reidma	Tallinna Reaalkool	10	Helli Juurma	X—16 5 7 6 5 1	24
+Hannes Hirmat	Tallinna Reaalkool	10	Helli Juurma	X—21 3 6 6 7 0	22
+Kaarel Kristjan Katmuk	Tallinna Reaalkool	10	Helli Juurma	X—25 3 1 5 5 7	21
+Jaagup Tamme	Hugo Treffneri Gümnaasium	10	Ülle Hüva	X—22 3 7 3 5 1	19
+Kevin Sults	Tallinna Reaalkool	10	Helen Kaasik	X—07 6 1 5 6 0	18
+Kaur Veere	Hugo Treffneri Gümnaasium	10	Ülle Hüva	X—08 3 6 6 2 1	18
+Kristjan Uus	Viljangi Gümnaasium	10	Margit Nuija	X—29 5 7 * 4 1	17
+Adel Müürsepp	Tallinna Reaalkool	10	Helli Juurma	X—15 3 1 0 5 7	16
+German Lužin	Narva Pähklimäe Gümnaasium	10	Irina Stalnuhhina	X—02 3 * * 5 7	15
+Henry Kaljulaid	Nõo Reaalgümnaasium	10	Mikk Põdra	X—12 7 6 0 2 0	15
+Robert Kurvits	Hugo Treffneri Gümnaasium	10	Ülle Hüva	X—23 3 3 1 4 4	15
+Siim Pender	Tallinna 21. Kool	10		X—03 2 7 0 4 1	14
+Simon Selg	Hugo Treffneri Gümnaasium	10	Ülle Hüva	X—10 2 1 1 3 7	14
+Priidik Meelo Västrik	Hugo Treffneri Gümnaasium	10	Ülle Hüva	X—11 5 2 2 1 2	12
+Anna Pauliina Rumm	Tallinna Reaalkool	10	Helli Juurma	X—24 2 * 1 6 1	10

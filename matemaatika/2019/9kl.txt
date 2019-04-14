@@ -1,0 +1,29 @@
+Birgit Veldi	Saue Gümnaasium	9	Alli Salusaar	lX—28 5 7 7 7 2	28	I
+Oliver Tennisberg	Miina Härma Gümnaasium	9	Mai Aavasalu	lX—08 7 1 7 7 2	24	II
+Intu Almisla	Olavin Koulu	9	?	lX—10 4 3 4 7 2	20	III
+Marko Tsengov	Laagri Kool	9	Mare Kaljuste	lX—11 6 3 7 1 3	20	III
+Pärl Pind	Miina Härma Gümnaasium	9	Tiiu Sasi	lX—13 3 0 7 7 2	19	III
+Peeter Aleksander Randla	Tallinna Inglise Kolledž	9	Heldena Taperson	lX—16 5 3 7 0 3	18	III
+Ralf Joosep Kask	Gustav Adolfi Gümnaasium	9	Auli Reitel	lX—21 6 3 7 1 1	18	III
+Bronislav Shatil	Narva Keeltelütseum	6	N. Jemeljanova, A. Sutõrin	lX—09 7 0 * 7 2	16	III
+Liis Siigur	Miina Härma Gümnaasium	9	Mai Aavasalu	lX—18 6 2 0 7 1	16	III
+Aleksander Karpov	Tallinna Kesklinna Vene Gümnaasium	9	Marina Sedneva	lX—01 5 2 6 1 1	15	III
+Tamor Tomson	Kärdla Põhikool	9	Anneli Salumaa	lX—19 2 5 7 0 0	14
+Hannes Sidorov	Ilmatsalu Põhikool	9	Evi Org	lX—12 5 * * 7 *	12
+Uku Andreas Reigo	Miina Härma Gümnaasium	9	Mai Aavasalu	lX—23 5 2 1 1 3	12
+Jevgeni Arefjev	Tallinna Mustjõe Gümnaasium	9	Olga Volossova	lX—30 5 2 * 1 3	11
+Jaakko Vuori	Vihtavuoren Koulu	9	?	lX—05 5 3 1 0 1	10
+Stefan Ehin	Tartu Annelinna Gümnaasium	9	Toomas Vaino	lX—26 5 2 1 0 1	9
+Ants Kärner	Jakob Westholmi Gümnaasium	9	Kaiko Lippur	lX—27 2 2 * 5 0	9
+Siim Tiivel	Gustav Adolfi Gümnaasium	9	Auli Reitel	lX—14 3 1 1 1 2	8
+Andreas Põšnograjev	Tallinna Reaalkool	9	Riin Saar	lX—22 7 2. 0 0 1	8
+Artemi Smõšljajev	Tallinna Tõnismäe Reaalkool	9	Julija Kornejetševa	lX—29 7 0 * 0 1	8
+Rasmus Kalkun	Jüri Gümnaasium	9	Gerly Leibenau	lX—O6 1 * 4 1 0	6
+Mihkel Jakobson	Tallinna Reaalkool	9	Aita Ottson	lX—20 1 3 0 1 1	6
+Michael Leo	Tallinna Tõnismäe Reaalkool	9	Elena Ait	lX—02 1 1 2 0 1	5
+Ats Marek Tender	Saue Gümnaasium	9	Elle Viljaste	lX—03 3 0 * 0 1	4
+Anette Hendrikson	Pärnu Mai Kool	9	Sirje Õismets	lX—07 0 1 * 1 2	4
+Elbe Reiter	Tallinna Muusikakool	9	Anne Abel	lX—25 1 2 0 0 0	3
+Marcus Karu	Tallinna Reaalkool	9	Aita Ottson	lX—31 2 0 0 0 0	2
+Kirill Ognjov	Narva Keeltelütseum	9	Valentina Ognjova	lX—24 1 0 0 0 *	1
+Margus Smotrovs	Riia Riiklik 1. Gümnaasium	9	?	lX—17 7 2 7 7 0	23

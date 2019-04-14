@@ -1,0 +1,25 @@
+Artur Avameri	Hugo Treffneri Gümnaasium	11	Kerli Orav-Puurand	Xl—08 7 7 7 7 7	35	I
+Hendrik Vija	Miina Härma Gümnaasium	11	Kristi Kreutzberg	Xl—05 5 7 7 7 7	33	I
+Kaarel August Kurik	Tallinna Reaalkool	11	Andres Talts	Xl—23 7 7 7 6 2	29	II
+Jarl Patrick Paide	Tallinna Reaalkool	11	Andres Talts	Xl—01 7 5 7 6 2	27	II
+Kadi Siigur	Hugo Treffneri Gümnaasium	11	Kerli Orav-Puurand	Xl—09 5 6 7 7 1	26	II
+Rasmus Saame	Tallinna Reaalkool	11	Andres Talts	Xl—26 7 7 3 7 1	25	II
+Daniil Vaino	Narva Pähklimäe Gümnaasium	11	Irina Stalnuhhina, Aleksandr Sutõrin	Xl—03 7 7 0 7 2	23	III
+Juhan Oskar Hennoste	Miina Härma Gümnaasium	11	Kristi Krentzberg	Xl—1_1 7 1 0 7 7	22	III
+Konstantin Dukatš	Narva Keeltelütseum	11	Aleksandr Sutõrin	Xl—12 7 7 1 7 0	22	III
+Pihla Järv	Hugo Treffneri Gümnaasium	11	Kerli Orav-Puurand	Xl—22 5 7 7 * * 	19
+Toomas Roosma	Hugo Treffneri Gümnaasium	11	Kerli Orav-Puurand	Xl—24 7 0 0 4 7 	18
+Kaarel Kivisalu	Tallinna Reaalkool	11	Andres Talts	Xl—19 7 0 6 2 2 	17
+Siim Kruusimäe	Tallinna Laagna Gümnaasium	11		Xl—16 7 0 1 7 1 	16
+Hannes Hendrik Kisel	Vanalinna Hariduskolleegium	11	Pilve Uussaar	Xl—17 3 0 4 7 0 	14
+Anastassija Nesterova	Tallinna Linnamae Vene Lütseum	11	Natalja Sazonova	Xl—06 7 0 2 3 * 	12
+Maxini Borodin	Sakala Eragümnaasium	11	Irina Baranova	Xl—04 1 6 0 3 0	10
+Karl-Joan Alesma	Viljandi Gümnaasium	11	Malle Eglit	Xl—18 7 3 0 * 0	10
+Robert Suigusaar	Tallinna Reaalkool	11	Andres Talts	Xl—15 5 0 2 1 0	8
+Laura Pau	Nõo Reaalgümnaasium	11	Mikk Põdra	Xl—25 3 0 5 0 0	8
+Ove Üllar Viesemann	Nõo Reaalgümnaasium	11	Sirje Sild	Xl—28 7 0 1 0 0	8
+Paula Timmi	Hugo Treffneri Gümnaasium	11	Kerli Orav-Puurand	Xl—10 5 0 0 1 1	7
+Pavel Smirnov	Narva Vanalinna Riigikool	11	Jelena Pogndina, Aleksandr Sntõrin	Xl—13 5 0 1 1 0	7
+Kirill Slobodjanov	Narva Keeltelütsenm	11	Aleksandr Sntõrin	Xl—14 5 0 0 1 0	6
+Grant Shatil	Narva Keeltelütsenm	11	Aleksandr Sntõrin	Xl—07 3 0 0 1 1	5
+Andreas Simson	Tallinna Reaalkool	11	Andres Talts	Xl—02 1 0 0 0 0	1

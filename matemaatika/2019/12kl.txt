@@ -1,0 +1,26 @@
+Karl Paul Parmakson	Miina Härma Gümnaasium	12	Signe Kinnas	Xll—20 7 7 7 7 7	35	I
+Richard Luhtaru	Hugo Treffneri Gümnaasium	12	Ehtel Tiniak	Xll—30 7 7 7 7 7	35	I
+Artur Avameri	Hugo Treffneri Gümnaasium	11	Kerli Orav-Puurand	Xll—07 7 4 7 7 7	32	II
+Toomas Tennisberg	Hugo Treffneri Gümnaasium	12	Ehtel Tiniak	Xll—31 7 6 5 7 7	32	II
+Hendrik Vija	Miina Härma Gümnaasium	11	Kristi Krentzberg	Xll—01 7 7 7 1 7	29	II
+Martin Puškin	Tallinna Inglise Kolledž	12	Ashley Wallace	Xll—19 7 6 0 7 6	26	III
+Urmas Luhaaar	Nõo Reaalgümnaasium	12	Sirje Sild	Xll—10 7 4 1 7 6	25	III
+Snllo Saan	Hugo Treffneri Gümnaasium	12	Ehtel Tiniak	Xll—09 4 7 0 4 7	22	III
+Uku Hannes Arismaa	Tallinna Reaalkool	12	Andres Talts	Xll—06 7 0 * 7 6	20	III
+Semjon Kravtšenko	Kohtla-Järve Järve Vene Gümnaasium	12	Jelena Mirt	Xll—08 0 5 1 7 7	20	III
+Joosep Naks	Tallinna Reaalkool	12	Andres Talts	Xll—1_2 7 1 0 5 6	19
+Uku Jõgi	Tartu Jaan Poska Gümnaasium	12	Carita Hommik	Xll—18 7 5 0 0 7	19
+Erki Külaots	Miina Härma Gümnaasium	12	Signe Kinnas	Xll—28 5 3 0 7 4	19
+Henri Tamm	Viljandi Gümnaasium	12	Malle Eglit	Xll—13 7 3 1 0 7	18
+Hannes Kuslap	Hugo Treffneri Gümnaasium	12	Karl Aleksander Kaplinski	Xll—11 7 5 0 0 5	17
+Ellen Leib	Hugo Treffneri Gümnaasium	12	Ehtel Tiniak	Xll—23 7 3 0 0 7	17
+Robin Haljak	Tallinna Reaalkool	12		Xll—25 7 5 0 0 5	17
+Anna Talas	Hugo Treffneri Gümnaasium	12	Ehtel Tiniak	Xll—21 7 3 0 0 5	15
+Jan Erik Alliksaar	Tallinna Reaalkool	12	Villu Raja	Xll—24 6 4 1 0 4	15
+Karl Aleksander Kaplinski	Hugo Treffneri Gümnaasium	12	Ehtel Tiniak	Xll—14 1 3 1 0 4	9
+Artjom Afanasjev	Nõo Reaalgümnaasium	12	Sirje Sild	Xll—22 1 3 0 0 5	9
+Karoliina Inno	Tallinna Reaalkool	12	Andres Talts	Xll—15 0 1 0 0 7	8
+Hans Kristjan Veri	Tallinna Reaalkool	12	Andres Talts	Xll—26 1 3 * 0 4	8
+Kaarel Kangro	Hugo Treffneri Gümnaasium	12	Ehtel Tiniak	Xll—27 * * * * 7	7
+Kirke Joamets	Hugo Treffneri Gümnaasium	12	Ehtel Tiniak	Xll—16 0 4 0 0 2	6
+Vladislav Žurihhin	Tallinna Laanemere Gümnaasium	12	Marina Mets	Xll—04 0 0 0 0 4	4
