@@ -1,0 +1,28 @@
+                Eesti koolinoorte 65. keemiaolümpiaadi lõppvoor
+                     23.-24. märts 2018                                                                                                 12. klass
+      Koht              Nimi                            Kool                           Õpetaja                1      2      3      4      5      6    Kokku Prax Kokku
+                                                                                              Maksimum 8.5 13 10.5 12                    10     11       60      40      100
+        1    Juri Volodin                Tallinna Õismäe Vene Lütseum       Pelageja Ozerova                 7.5    12      8      9      7    10.5     49.8    37.0    86.8 I
+        2    Siim Kaukver                Tallinna Reaalkool                 Andrus Kangro                    8.5    12     8.5     12    8.5    11      55.8    30.0    85.8 I
+        3    Taido Purason               Tõrva Gümnaasium                   Marge Kaiv                       7.5    12     8.5     12     8     9.5     53.1    30.0    83.1 II
+        4    Loona Volke                 Hugo Treffneri Gümnaasium          Eha Paabo                        8.5    11      4      10     4     9.5     43.4    35.0    78.4 III
+        5    Joosep Kaimre               Hugo Treffneri Gümnaasium          Eha Paabo, Helgi Muoni           8.5    12     9.5     10     6     11      52.6    20.0    72.6
+        6    Oliver Paberits             Gustav Adolfi Gümnaasium           M. Saar, L. Kippasto, K. Soika   8.5     9     6.5     6     6.5    9.5     42.5    30.0    72.5
+        7    Sten Arthur Laane           Tallinna Reaalkool                 Andrus Kangro                     5     11     7.5     12    2.5    11      45.2    20.0    65.2
+        8    Silvia Hiie Aabloo          Hugo Treffneri Gümnaasium          Eha Paabo                        7.5    11     6.5     6      5     10      42.5    16.5    59.0
+        9    Herman Rull                 Hugo Treffneri Gümnaasium          Eha Paabo                         4     8.5    6.5    7.5     6     7.5     36.9    22.0    58.9
+       10    Julia Suskevitš             Narva Pähklimäe Gümnaasium         Tatjana Jerošenko                4.5    9.5    7.5     8     2.5     6      35.1    20.0    55.1
+       11    Serafima Afanasieva         Tallinna Õismäe Vene Lütseum       Pelageja Ozerova                 4.5    7.5     4      8      2      8      31.4
+       12    Mia Peterson                Tallinna Reaalkool                 Andrus Kangro                    6.5    12      7      2     2.5            27.7
+       13    Nikita Leo                  Gustav Adolfi Gümnaasium           Martin Saar                       8      5      5      3      1      6      25.8
+       14    Jakob Univer                Viljandi Gümnaasium                Ave Vitsut                        7      7     3.5     5      1     3.5     24.9
+      15-18 Maria Keridon                Tallinna Reaalkool                 Andrus Kangro                    7.5     3     6.5     2      4     3.5     24.5
+      15-18 Toivo Saabas                 Gustav Adolfi Gümnaasium           Katrin Soika                     4.5     8             7      2      5      24.5
+      15-18 Markos Lill                  Vanalinna Hariduskolleegium        Tiia Kalju                       6.5     9      3      5      3      0      24.5
+      15-18 Alise-Valentine Prits        Nõo Reaalgümnaasium                Aivar Vinne                      4.5     9      3      4      1      5      24.5
+       19    Mirjam Reino                Gustav Adolfi Gümnaasium           Martin Saar, Katrin Soika         4     5.5     4      4      3     4.5     23.1
+       20    Martin Kiik                 Gustav Adolfi Gümnaasium           Martin Saar                       4      9     1.5     2      1      4      19.8
+      21-22 Marek Leidmaa                Maardu Gümnaasium                  Ljudmilla Dmitrijeva             5.5     5     0.5     2      1      6      18.5
+      21-22 Jürgen-Martin Assafrei       Narva Eesti Gümnaasium             Margit Markus                    5.5     5      0      2      3     4.5     18.5
+       23    Jakob Viiret                Haapsalu Täiskasvanute Gümnaasium Katrin Soika, Lilian Kippasto      6      1      0      3      3      2      13.8
+                                                                                                            74% 65% 48% 51% 36% 61%

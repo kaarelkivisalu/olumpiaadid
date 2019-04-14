@@ -1,0 +1,32 @@
+                            Eesti koolinoorte 63. keemiaolümpiaadi lõppvoor
+                                      18.-19. märts 2016. a                                                     9. klass
+              Nimi                      Kool                     Õpetaja           1     2      3      4      5     6      Teor    Praktikum     Kokku
+                                                                    Maksimum       9     10    10     10      9     12      60         40         100
+      Andreas Must          Tallinna Reaalkool            Andrus Kangro           7.5    10    9.5     8     6.5   11.5     53         40          93
+      Karl Paul Parmakson   Miina Härma Gümnaasium        Helle Sorge              8     9      8     10     5.5    12     52.5        36         88.5
+      Hannes Kuslap         Miina Härma Gümnaasium        Helle Sorge              8     8     6.5     9      7    9.5      48        39.5        87.5
+      Aleksandr Domaškin Tallinna Õismäe Vene Lütseum Pelageja Ozerova             9     9      9     10     3.5   7.5      48        36.5        84.5
+      Silver-Toomas Ant     Gustav Adolif Gümnaasium      Sirle Oja                9     10     9     10      4     11      53        30.5        83.5
+      Sullo Saan            Tartu Kivilinna Kool          Riina Reiljan           7.5    10     9      9      6     8      49.5       33.5         83
+      Anna Krupina          Tallinna Õismäe Vene Lütseum Pelageja Ozerova          9     10     8      9      7     12      55        27.5        82.5
+      Mikael Rinne          Tallinna Tõnismäe Reaalkool   Lidia Rõbnikova          8     9     7.5     8      4    10.5     47        29.5        76.5
+      Seraifma Afanasieva   Tallinna Õismäe Vene Lütseum Pelageja Ozerova         8.5    9     7.5     9      4     12      50        23.5        73.5
+      Annika Jaakson        Parksepa Keskkool             Tiina Asi                6     9     9.5     9     4.5    11      49                     49
+      Daniil Vaino          Narva Keeltelütseum           Inna Deineko            7.5    8     8.5     7     5.5    10     46.5                   46.5
+      Erki Külaots          Miina Härma Gümnaasium        Helle Sorge             5.5    9      9      7     4.5    11      46                     46
+      Martin Puškin         Tallinna Inglise Kolledž      Tiina Mägi              7.5    8      8     10     3.5   8.5     45.5                   45.5
+      Uku Hannes Arismaa Tallinna Inglise Kolledž         Tiina Mägi              7.5   8.5    6.5     7      6     10     45.5                   45.5
+      Tuuli Tiivel (8. kl)  Gustav Adolif Gümnaasium      Katrin Soika            6.5    9      8     5.5     6    9.5     44.5                   44.5
+      Ellen Leib            Tartu Hansa Kool              Riho Kägo               7.5   8.5    9.5     2     3.5    10      41                     41
+                            Tallinna Mustamäe                                                                               40                     40
+      Juri Geiman           Reaalgümnaasium               Ljudmilla Nikolajenko   7.5    7     6.5     7     3.5   8.5
+      Triinu Prants         Gustav Adolif Gümnaasium      Sirle Oja               6.5    9     5.5    4.5    4.5   6.5     36.5                   36.5
+      Helerin Romet         Gustav Adolif Gümnaasium      Sirle Oja               7.5   7.5     9      5     2.5   3.5      35                     35
+      Elisabeth Margarethe                                                                                                  34                     34
+      Kikas                 Tallinna Reaalkool            Andrus Kangro            5    8.5     5      6      5    4.5
+                            Sütevaka                                                                                       33.5                   33.5
+      Helena Olesk          Humanitaargümnaasium          Ülle Vares              5.5    10     6      8      4     0
+      Robin Haljak          Tallinna Reaalkool            Andrus Kangro           5.5    7     7.5    5.5    4.5    0       30                     30
+      Kaspar Kluge          Tallinna Reaalkool            Andrus Kangro            6     6      8      3     3.5    1      27.5                   27.5
+      Riti Ly Lukk          Tartu Kivilinna Kool          H. Muoni/R. Reiljan     7.5    9     5.5    1.5    3.5   0.5     27.5                   27.5
+      Aurora Mikk           Gustav Adolif Gümnaasium      Sirle Oja                6     5      8     2.5     4    1.5      27                     27

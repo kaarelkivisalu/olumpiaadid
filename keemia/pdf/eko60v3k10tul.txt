@@ -1,0 +1,29 @@
+ Eesti koolinoorte 60. keemiaolümpiaadi lõppvoor                                                                     Klass:      10
+                                                                                                                       Teooriavoor                               Praktikum
+  Nr.       Õpilase nimi                       Kool                      Õpetaja nimi                 12345Kokku6                                                                 Sum           Järk
+                                                                                                     10         8       9.5      9.5      12      11 Max
+    1 Rasmus Kisel            Gustav Adolfi Gümnaasium              Martin Saar               10.00       6.00      8.50      9.50   12.00    8.50     54.50        28.00        82.50       I
+    2 Raul Rinken             Hugo Treffneri Gümnaasium             Eha Paabo                  6.50       6.50      9.50      9.25   12.00    8.00     51.75        24.75        76.50       II
+    3 Tiit Hendrik Piibeleht  Gustav Adolfi Gümnaasium              Martin Saar                7.50       8.00      8.50      9.25    6.50    6.50     46.25        28.50        74.75       II
+    4 Paul Kolk               Kuressaare Gümnaasium                 Marju Kirss                9.00       7.00      7.50      9.50   12.00    7.00     52.00        18.00        70.00       III
+                                                                    Maaja Toomet/Riina                                                                 42.75
+    5 Mait Ainsar             Rapla Vesiroosi Gümnaasium            Serglov                    5.50       8.00      8.00      8.25    6.50    6.50                  26.00        68.75       III
+    6 Aleksei Murohh          Tallinna Läänemere Gümnaasium         Tatjana Lapotškina         8.50       8.00      9.00      9.25   12.00    7.00     53.75        13.00        66.75
+    7 Hans Daniel Kaimre      Hugo Treffneri Gümnaasium             Eha Paabo                  6.00       6.00      7.50      9.00    4.00    6.00     38.50        28.00        66.50
+    8 Rasmus Born             Hugo Treffneri Gümnaasium             Eha Paabo                  4.00       6.00      9.00      9.50    6.00    6.00     40.50        19.50        60.00
+    9 Joosep Henrik Sild      Miina Härma Gümnaasium                Erkki Tempel               8.00       7.00      9.00      8.75    8.00    10.50    51.25          7.00       58.25
+   10 Daniel Kütt             Hugo Treffneri Gümnaasium             Eha Paabo                  5.50       5.50      6.50      9.50    7.00    7.00     41.00        13.00        54.00
+   11 Alexsander Linnamäe     Tallinna Reaalkool                    Andrus Kangro              6.00       5.00      9.00      7.50    7.50    3.00     38.00                     38.00
+   12 Kätriin Kukk            Gustav Adolfi Gümnaasium              Martin Saar                4.50       6.50      8.00      9.25    2.50    7.00     37.75                     37.75
+   13 Magnus Kaldjärv         Saaremaa Ühisgümnaasium               Raili Tamm                 2.50       7.00      6.50      6.25    5.50    8.00     35.75                     35.75
+   14 Tõnis Tõnison           Gustav Adolfi Gümnaasium              Martin Saar                4.50       7.00      5.50      7.00    4.50    7.00     35.50                     35.50
+   15 Kenneth Tuul            Tallinna Reaalkool                    Andrus Kangro              5.00       6.00      8.50      9.25    5.00    1.50     35.25                     35.25
+   16 Jaak Joonas Keldoja     Hugo Treffneri Gümnaasium             Eha Paabo                  4.00       3.00      7.50      9.25    4.00    7.00     34.75                     34.75
+   17 Maria Jõgi              Gustav Adolfi Gümnaasium              Martin Saar                4.00       6.00      8.50      5.00    3.00    7.00     33.50                     33.50
+   18 Rasmus Zalite           Gustav Adolfi Gümnaasium              Martin Saar                6.50       7.00      0.50      8.25    8.00    3.00     33.25                     33.25
+   19 Olga Kamõseva           Tallinna Õismäe Vene Lütseum          Pelageja Ozerova           4.00       6.00      8.50      7.75    4.00    2.50     32.75                     32.75
+   20 Joonas Kalda            Tallinna Reaalkool                    Andrus Kangro              5.50       4.00      7.50      7.50    5.50    2.00     32.00                     32.00
+   21 Georg Kuusik            Tallinna Inglise Kolledž              Lilian Kippasto            1.50       6.00      6.50      6.50    7.50    3.00     31.00                     31.00
+   22 Ervin Oro               Tallinna Reaalkool                    Andrus Kangro              4.00       4.50      6.50      9.25    3.50    2.50     30.25                     30.25
+   23 Maria Maloverjan        Tallinna Tõnismäe Reaalkool           Lidia Rõbnikova            5.50       7.00      0.50      8.75    6.50    1.50     29.75                     29.75
+   24 Silver Schnur           Gustav Adolfi Gümnaasium              Martin Saar                4.00       6.00                8.25    3.00    2.00     23.25                     23.25

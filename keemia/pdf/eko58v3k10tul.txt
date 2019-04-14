@@ -1,0 +1,32 @@
+                                   Eesti koolinoorte 58. keemiaolümpiaad
+                     4.-5. märts 2011. a                                                         10. klass
+    Koht           Nimi                        Kool                  Õpetaja 123456KokkuJärk                                                                                            TE
+                                                                       Maksimum 8        11    10   12     9    10    60      30     90
+      1 Tõnis Laasfeld            Gustav Adolfi Gümnaasium       Martin Saar        8    10    8.5  2.5    9   6.75 44.75 28.48 73.23       I
+      2 Sandra Schumann           Tallinna Reaalkool             Andrus Kangro      7    10.5  9.5  9.5    8   5.75 50.25 22.62 72.87       I
+      3 Jaan Toots                Tallinna Reaalkool             Andrus Kangro      5    9.5   10   10.5  8.5  9.5    53     18.3   71.3    II
+      4 Jüri-Mikk Udam            Tallinna Reaalkool             Andrus Kangro      7    10     9   10.5  7.5  5.5   49.5   19.37 68.87 III
+      5 Kaur Aare Saar            Tallinna Inglise Kolledž       Lilian Kippasto    5    11    9.5   10   8.5  7.5   51.5   10.89 62.39
+      6 Uku Erik Tropp            Tallinna Reaalkool             Andrus Kangro      7     9     6   9.5    6    6    43.5   17.43 60.93
+      7 Mette Purde               Tallinna Prantsuse Lütseum     Marge Oopkaup      7    8.5   6.5  10.5  8.5   5     46    14.47 60.47
+      8Vjatšeslav Muskatin        Tallinna Õismäe Vene Lütseum   Pelageja Ozerova  5.75  9.5    7   10.5  6.5   2    41.25 18.24 59.49
+      9 Robert Aare               Gustav Adolfi Gümnaasium       Martin Saar        6    4.5    8   8.5    6   8.5   41.5   17.81 59.31
+     10 Enn Rusi                  Hugo Treffneri Gümnaasium      Eha Paabo          6    10.5  6.5   7     7   5.25 42.25    5.67   47.92
+     11 Agnes Kuus                Hugo Treffneri Gümnaasium      Eha Paabo          5    6.5   4.5  8.5    8   5.75 38.25
+     12 Eduard Harkov             Tallinna Tõnismäe Reaalkool    Lidia Rõbnikova    6    7.5    4   9.5   8.5  2.5    38
+     13 Getter Kolosov            Tallinna Reaalkool             Andrus Kan
+                                                                           gro      5     5    8.5  7.5    6    5     37
+     14 Kevin Keskküla            Hugo Treffneri Gümnaasium      Eha Paabo          6    9.5    6   5.25  5.5  4.25  36.5
+     15 Aleksandr Sukhanov        Narva Vanalinna Riigikool      Tatjana Jerošenko  5    9.5    0   8.5    6    5     34
+     16 Simmo Tõnisson            Gustav Adolfi Gümnaasium       Katrin Soika       7    5.5    1    8    7.5  3.75 32.75
+     17 Kirill Tammela            Tallinna Inglise Kolledž       Lilian Kippasto    5    10.5   0    5    5.5  5.75 31.75
+     18 Krist
+             jan Müürsepp         Hugo Treffneri Gümnaasium      Eha Paabo          5     6    3.5   7     6   2.5    30
+     18 Lona-Liisa Sutt           Miina Härma Gümnaasium         Erkki Tempel       5    4.5   6.5   3     6    5     30
+     20 Steven Leego              Miina Härma Gümnaasium         Erkki Tempel       5    6.5    2   4.5   6.5   4    28.5
+     21 Kerli Kustola             Rakvere Reaalgümnaasium        Mare Murs          5    7.5   3.5   4    3.5  4.75 28.25
+     22 Johannes Pärtel Truusalu  Miina Härma Gümnaasium         Erkki Tempel      4.75  7.5    1   2.5    7    4    26.75
+     23 Aleksander Abramov        Tartu Annelinna Gümnaasium     Irina Hindriksoo   50138.55
+                                                                                                                     22.5
+     24 Jo Kroll                  Hu
+                                    go Treffneri Gümnaasium      Eha Paabo          5     0    3.5  4.5    3    5     21

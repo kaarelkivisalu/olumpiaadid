@@ -1,0 +1,31 @@
+             Eesti koolinoorte 53. keemiaolümpiaadi lõppvoor                                            10. klass
+                                                                                                                                  10.-11. märts 2006. a.
+             Koht   Nimi                       Kool                             Aineõpetaja           1      2    3     4      5     6      T       E    Kokku
+                                                                                     Maksimum        11    10     9    10     9     11     60       30     90
+             1      Jekaterina Kirillova     Ahtme Gümnaasium             Anna Rassadina             11    9,5    9    10     9    9,25 57,75      30    87,75
+             2      Jörgen Metsik            Tallinna Järveotsa Gümnaasi Maila Mölder                11    10     9    10    8,5    8,5    57      30      87
+             3      Mihkel Ilisson           Nõo Reaalgümnaasium          Eevi Viirsalu              10    10    8,5    9     9     10    56,5     30    86,5
+             4      Kaija Vill               Nõo Reaalgümnaasium          Eevi Viirsalu              10     8     9    10    8,5    10    55,5     30    85,5
+             5      Priit Pruks              Miina Härma Gümnaasium       Jüri Vene                  10     9     7    9,5   8,5     9     53      30      83
+             6      Pavel Smekalov           Tallinna Mustamäe Reaalgüm Irina Žikina                 9107107851 30 81
+             6      Uku Hämarik              Miina Härma Gümnaasium       Jüri Vene                  10     9     7     8    8,5    8,5    51      30      81
+             8      Svetlana Tšupova         Narva Pähklimäe Gümnaasiu Tatjana Jerošenko            7,5    10    8,5   10     9    10,25 55,25     25    80,25
+             8      Mart Sein                Miina Härma Gümnaasium       Jüri Vene                 7,5     7     8    10    7,5 10,25 50,25       30    80,25
+             10     Kai Tiitsaar             Hugo Treffneri Gümnaasium     Eha Paabo                 4     10     7     9    8,5   9,75 48,25      30    78,25
+             11     Rina Sokurova            Narva Pähklimäe Gümnaasiu Tatjana Jerošenko             10    7,5   7,5   8,3    7     7,5 47,75            47,75
+             12     Ott Kekišev              Tallinna Reaalkool           Anu Ermann                5,5    6,5    7    10    8,5   9,25 46,75            46,75
+             13     Jekaterina Ivanova       Narva Humanitaargümnaasiu Nelli Avdejeva                586109745                                             45
+             14     Marit Puusepp            Tallinna Reaalkool           Anu Ermann                 9     3,5   6,5   10     9      3     41              41
+             15     Erkki Lukk               Miina Härma Gümnaasium       Jüri Vene, Erkki Tempel    7      6    4,5   10     3    9,75 40,25            40,25
+             15     Rudolf Bichele           Hugo Treffneri Gümnaasium     Eha Paabo                 7      9    8,5   10     3    2,75 40,25            40,25
+             17     Priit Pender             Tallinna Reaalkool           Anu Ermann                6,5    5,5    4     9     7      7     39              39
+             18     Agnes Suu                Hugo Treffneri Gümnaasium     Eha Paabo                 4     6,5    7    10    2,5     8     38              38
+             19     Alissa Pankova           Tartu Slaavi Gümnaasium      Tatjana Ojavere            2     5,5   7,5   9,5   8,5   4,75 37,75            37,75
+             20     Karen Atabekjan          Tallinna Tõnismäe Reaalkool  Lidia Rõbnikova            4      8    6,5   8,5    3    7,25 37,25            37,25
+             21     Juri Kulikov             Narva Pähklimäe Gümnaasiu Tatjana Jerošenko            9,75 4,5 6,5 6,5 2,5 7,25              37              37
+             22     Matthias Kahk            Tallinna Inglise Kolledž      Lilian Kippasto          4,5     5    6,5    9     4     7,5   36,5           36,5
+             23     Aili Animägi             C.R. Jakobsoni nim. Gümnaa Jaan Usin                    6      7     6    9,5    2     4,5    35              35
+             24     Melissa Saviste          Tallinna Inglise Kolledž      Lilian Kippasto          3,5    4,5   5,5    9     0    10,25 32,75           32,75
+             25     Siim Lepik               Tallinna Reaalkool           Anu Ermann                 5     4,5    3     4    8,5    7,5   32,5           32,5
+             26     Tauri Hindre             Hugo Treffneri Gümnaasium     Eha Paabo                 4      2     7    7,5   6,5    3,5   30,5           30,5
+             27     Sander Kahk              Tallinna Reaalkool           Anu Ermann                 24,5740623,5                                        23,5

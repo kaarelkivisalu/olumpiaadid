@@ -1,0 +1,34 @@
+                                       Eesti koolinoorte 56. keemiaolümpiaad
+                     14.-15. märts 2009. a                                                                9. klass
+        Koht          Nimi                        Kool                    Õpetaja           1     2     3      4     5     6      T        E    Kokku Järk
+                                                                            Maksimum 11           8    12     12     7    10     60       30      90
+          1 Erik Tamre               Tallinna Reaalkool              Anu Ermann            11     8   11.5    12     7    10    59.5      30     89.5     I
+          2 Eva-Lotta Käsper         Tartu Kivilinna Gümnaasium      Riina Reiljan         11     8   11.5 11.75     7    10    59.25    29.5    88.75    I
+          3 Rene Lomp                Liivalaia Gümnaasium            Leonora Krug          11     8    12    10.5   5.8   10    57.3      30     87.3     II
+          4 Anu Ainsaar              Tallinna Reaalkool              Anu Ermann            11   7.75   11 11.25 6.2       10    57.2      30     87.2     II
+          5 Taivo Pungas             Tallinna Prantsuse Lütseum      Marge Oopkaup         10     7    11 11.75 6.8       10    56.55    27.5    84.05 III
+          6 Saari Sildos             Tallinna Inglise Kolledž        Lilian Kippasto     10.75    8    10     11     7     9    55.75     27     82.75
+          7 Ralf Ahi                 Tallinna Reaalkool              Anu Ermann          10.75 6.75 11.5 11.5       6.5    9      56      26      82
+          8 Karl Oskar Lember        Tallinna Reaalkool              Anu Ermann            11     7   11.5    11    6.3   10    56.8    24.61 81.41
+          9 Anna-Helena Saarso       Tallinna Inglise Kolledž        Lilian Kippasto       11     8    12    11.5   5.8   10    58.3    22.21 80.51
+         10 Tanel Veske              Jakob Westholmi Gümnaasium Larissa Kvašnina           11     8    9.5    12    3.5   10      54     17.1    71.1
+         11 Kaur Karus               Miina Härma Gümnaasium          Helle Sorge           11     5   10.5    11    6.5    9      53               53
+         11 Sergei Malõšev           Narva Pähklimäe Gümnaasium Tatjana Jerošenko           7     7   11.5    11    6.5   10      53               53
+         13 Vladimir Tšerkassov      Narva Vanalinna Riigikool       Tatjana Jerošenko     10     4   11.5 11.5     3.1   10    50.1             50.1
+         14 Nadežda Turajeva         Narva Kesklinna Gümnaasium Tatjana Jerošenko          10    6.5   11    11.5    2    8.5   49.5             49.5
+         15 Karl Väärtmaa            Pärnu Koidula Gümnaasium        Merit Sarandi         11   3.75 11.5 10.4      2.6   10    49.25            49.25
+         16 Taavi Teelem             Tallinna Reaalkool              Anu Ermann            10    4.5 9.75 11.5      2.8   10    48.55            48.55
+         17 Jakob Prii               Saaremaa Ühisgümnaasium         Raili Tamm            10    7.25  10    11.5    -     8    46.75            46.75
+         18 Jako Siim Eensalu        Tallinna Prantsuse Lütseum      Marge Oopkaup         10     3    8.5    12    1.9   10    45.4             45.4
+         19 Leo Dubovski             Narva Pähklimäe Gümnaasium Tatjana Jerošenko           8     3    10    11.5   2.8    9    44.3             44.3
+         20 Vlad Piljukov            Tartu Annelinna Gümnaasium Irina Hindriksoo           11   3.75   10    11.4   2.8    5    43.95            43.95
+         21 Liisa Parts              Tallinna Inglise Kolledž        Lilian Kippasto       9.5    1    8.5    11    3.2   10    43.2             43.2
+         22 Rees-Roonius Juurmaa Tallinna Prantsuse Lütseum          Marge Oopkaup          9    6.5   5.5   6.25   2.9   10    40.15            40.15
+         23 Märt Rannap              Vanalinna Hariduskolleegium     Tiia Kalju           9.75   7.5   11      6    3.4    2    39.65            39.65
+         24 Katrin Männimets         Lasnamäe Gümnaasium             Olga Zvereva          11     2   11.5 10.5     2.3    0    37.3             37.3
+         25 Sander Alvin Kelder      Tallinna Reaalkool              Anu Ermann          10.75    3    8.5   11.5   2.5    1    37.25            37.25
+         26 Liis Lääts               Pärnu Ühisgümnaasium            Evelin Saks           11    4.5    6     4.5   1.9    9    36.9             36.9
+         27 Ken Riisalu              Tartu Katoliku Kool             Katrin Lõhmus       10.75    -    9.5 11.25 1.3       2    34.8             34.8
+         28 Jaagup Repän             Rõngu Keskkool                  Merike Luik            9     1     4    9.75   2.5    3    29.25            29.25
+         29 Olivia Luige             Oskar Lutsu Palamuse Gümn. Merike Teppan             8.5     4     3     5      1    1.5     23               23
+         30 Marit Külv               Rõngu Keskkool                  Merike Luik          9.25    1    2.5     4    2.2    4    22.95            22.95

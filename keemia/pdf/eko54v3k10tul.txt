@@ -1,0 +1,36 @@
+                              Eesti koolinoorte 54. keemiaolümpiaad
+                        9.-10. märts 2007. a                                             10. klass
+        Koht         Nimi                        Kool                    Õpetaja 123456Kokku T E
+                                                                          Maksimum 12       9    8    14    9     8    60      30     90
+          1  Taavi Pungas         Tallinna Reaalkool                 Andrus Kangro     10   7    8    11    7     8    51      30     81
+          2  Mark Gimbutas        Hugo Treffneri Gümnaasium          Eha Paabo         5.5  9    8   13.5  6.5    8   50.5     29    79.5
+          3  Margot Sepp          Otepää Gümnaasium                  Tiiu Sander       11   8    8     6    4   6.25 43.25     29    72.25
+          4  Siim Rinken          Hugo Treffneri Gümnaasium          Eha Paabo         8.5 7.8   8     5   6.5  6.25   42      30     72
+          5  Sergei Ponomarjov    Narva Humanitaargümnaasium         Nelli Avdejeva    7    9    8     9    8   7.65 48.65     21    69.65
+          6  Rasmus Lubi          Miina Härma Gümnaasium             Erkki Tempel     3.25  3    8   10.5  8.5   6.6  39.85    28    67.85
+          7  Lauri Taaleš         Nõo Reaal
+                                           gümnaasium                Eevi Viirsalu     8.5  7    8    10   8.5    6    48      15     63
+          8  Kerstin Ruustal      Tallinna Reaalkool                 Andrus Kangro     6.5  9    8    9.5  8.5   6.6  48.1     13    61.1
+          9  Klim Evdokimov       Tallinna 53. Keskkool              Vladimir Ossipov  7    7    8     9   6.5   5.5   43      13     56
+         10 Allan Avi             Hugo Treffneri Gümnaasium          Eha Paabo         9    9    8    0.5  7.5  5.35 39.35      -    39.35
+         11 Lauri Hein            Miina Härma Gümnaasium             Helle Sorge       8   8.5   8    5.5  5.5  2.85 38.35           38.35
+         12 Anastassia Matviitšuk Narva Humanitaargümnaasium         Nelli Avdejeva   7.75  9    5    3.5  4.4   6.6  36.25          36.25
+         13 Valdeko Kruusvee      Tallinna Reaalkool                 Andrus Kan
+                                                                               gro    10.3  9    7    3.5  3.5  2.75   36             36
+         13 Dmitri Tsõvarev       Narva Pähklimäe Gümnaasium         Tatjana Jerošenko 8    9    8434
+                                                                                                                       36             36
+         15 Linda Rusalepp        Hugo Treffneri Gümnaasium          Eha Paabo         5    9    8    2.5   4   3.85 32.35           32.35
+         16 Viktor Karabut        Ahtme Gümnaasium                   Anna Rassadina    0   2.5   7    9.5  6.5   6.5   32             32
+         17 Enno Kirsimäe         Hugo Treffneri Gümnaasium          Helgi Pähno      6.75  2    7     -   7.5    7   30.25          30.25
+         18 Sofja Tšepelevitš     Kohtla-Järve Tammiku Gümnaasium    Nadežda Pavljut  1.75 8.5   8    1.5  3.75  6.5   30             30
+         19 Dmitri Neha
+                        jev       Tallinna Tõnismäe Reaalkool        Lidia Rõbnikova   0    1    8    6.5  6.5    7    29             29
+         20 Ain Andreas Neuhaus   Tallinna Inglise Kolledž           Lilian Kippasto   1   1.5   7     8   5.75  5.5  28.75          28.75
+         21 Maksim Buldakov       Hugo Treffneri Gümnaasium          Eha Paabo          -   9    8     -   7.5    4   28.5           28.5
+         22 Dmitri Osmjorkin      Tallinna Õismäe Vene Lütseum       Pelageja Ozerova  8.5  -    8    2.5  3.5   5.5   28             28
+         22 Lars Trunin           Kadrioru Saksa Gümnaasium          Tiiu Liivanurm    7   1.5   8     4   2.5    5    28             28
+         24 Veronika Hantson      Nõo Reaalgümnaasium                Eevi Viirsalu     0.5  5    8    0.5  6.5  5.35 25.85           25.85
+         25 Jekaterina Izotova    Tallinna Mustamäe Reaal
+                                                        gümnaasium Irina Žikina        6.5 2.5   8     2    2    3.1  24.1           24.1
+         26 Priit Marmor          Hugo Treffneri Gümnaasium          Eha Paabo          -   1    8     3    2    4.5  18.5           18.5
+         27 Ella-Anu Puusepp      Tallinna Reaalkool                 Andrus Kangro      -   8    3     -    1   2.75 14.75           14.75

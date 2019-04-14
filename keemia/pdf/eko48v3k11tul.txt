@@ -1,0 +1,23 @@
+                1      Pavel Starkov            Tallinna Lasnamäe Gümnaasium  Ljudmila Ivanova             7,5 7,75     12     12    6    9,5 54,75 26       80,75
+                2      Andrei Komlev            Narva Pähklimäe Gümnaasium  Tatjana Lodeikina                              3,5    10    12     8     8     2     43,5   23    66,5
+                3      Kristjan Randma          Tallinna Inglise Kolledž           Lilian Kippasto       7,5 8,5       1    8,75   8    6,5 40,25 26       66,25
+                4      Anton Karputkin          Tallinna Tõnismäe Reaalkool  Lidia Rõbnikova               7,5 8,25     10    9,25   6     3      44    17     61
+                5      Anton Uustalu            Narva Pähklimäe Gümnaasium  Tatjana Lodeikina                      7,5 2,25     12    8,25 7,5    4,75 42,25 18      60,25
+                6      Mikk Gaškov              Nõo Reaalgümnaasium                Eevi Viirsalu         6,5 9,5       9     5    7,5    0     37,5   21    58,5
+                7      Martin Pettai            Viljandi C.R.Jakobsoni nim. Gümn   Jaan Usin               8   8,75   7,5 10,8 8         0      43    15     58
+                8      Julia Zingel             Tallinna 53. Keskkool              Vladimir Ossipov        4   2,75    3     12 6,5     4,5 32,75 17       49,75
+                9      Marje Lust               Hugo Treffneri Gümnaasium  Eha Paabo                         7   3,25   6,5 4,75 3,5       0      25    24     49
+                10     Siim Espenberg           Tartu Kivilinna Gümnaasium         Helgi Muoni             1   0,5     9     9     4     5     28,5   18    46,5
+                11     Juri Kostin              Narva Pähklimäe Gümnaasium  Tatjana Lodeikina                                        3   0,5    11    6,5 3,5      0     24,5         24,5
+                12     Teele Jairus             Lihula Gümnaasium                  Heli Koik               1   5,75   5,5   5,5    3    1,5 22,25          22,25
+                13     Konstantin Fleiderviš    Tallinna 53. Keskkool              Vladimir Ossipov        7           7    1,5    6     0     21,5         21,5
+                14     Liia Semjonova           Pärnu Ühisgümnaasium    Reelika Lippur                      7,5    3      0     0    6,5    3      20           20
+                15     Aivi Kaljuvee            Miina Härma Gümnaasium             Jüri Vene               0   9,25    0    4,5    4     0    17,75        17,75
+                16     Sander Sepp              Miina Härma Gümnaasium             Jüri Vene               0    0     10     6     1     0      17           17
+                17     Lauri Tõntson            Tallinna Inglise Kolledž           Lilian Kippasto         4   3,25    0     2     6    0,5 15,75          15,75
+                18     Evari Koppel             Miina Härma Gümnaasium             Jüri Vene               2    0     3,5   3,5    3     2      14           14
+                18     Helen Pelt               Nõo Reaalgümnaasium                Eevi Viirsalu         2,5    0      7     4    0,5    0      14           14
+                20     Lauri Sikk               Hugo Treffneri Gümnaasium   Eha Paabo                              3            8          2,5    13,5         13,5
+                20     Gunar Kononov            K.-Järve Tammiku Gümnaasium        Olga Jugolainen   7,5          3            0     3     0     13,5         13,5
+                22     Tarvo Treier             Nõo Reaalgümnaasium                Eevi Viirsalu           1   0,75    1    0,5    3     0     6,25         6,25
+                23     Marko Kriibi             Miina Härma Gümnaasium             Jüri Vene               1    0           1,5 2,5      0      5             5

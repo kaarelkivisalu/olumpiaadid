@@ -1,0 +1,28 @@
+          Eesti koolinoorte 53. keemiaolümpiaadi lõppvoor                                              11. klass
+                                                                                                                              10.-11. märts 2006. a.
+          Koht Nimi                      Kool                            Aineõpetaja          1      2       3      4      5      6     T      E Kokku
+                                                                           Maksimum                          8                          60     30     90
+                                                                                              91112 8 12
+          1   Andi Kipper             Tallinna Reaalkool            Andrus Kangro           6,5       9   7,5      12     6     11,5   52,5     30     82,5
+          2   Andres Laan (10 kl.) Tallinna Reaalkool               Anu Ermann               7       9,5   7      10,5    6    11,25 51,25      28     79,25
+          3   Ivan Ogibalov           Tallinna 53. Keskkool         Vladimir Ossipov        4,5      10 7,5       8,75    8      12    50,75    28     78,75
+          4   Mihhail Komaško         Narva Pähklimäe Gümnaasium Tatjana Jerošenko          8,9       8   6,5     6,5     6     11,5   47,4     29     76,4
+          5   Maksim Ošeka            Haabersti Vene Gümnaasium     Liidia Teska            5,5       9    7       11     6       6    44,5     26     70,5
+          6   Rauno Raidma            Nõo Reaalgümnaasium           Eevi Viirsalu            6       9,5   6      9,5     6      6,5   43,5     26     69,5
+          7   Aleksandr Arhipov       Narva Pähklimäe Gümnaasium Tatjana Jerošenko          6,5      9,5 7,5       10     6      9,5     49     20      69
+          8   Mikk Abram              Pärnu Ühisgümnaasium          Evelin Saks             6,5     10,5 6         10     6       6      45     22      67
+          9   Tarmo Puolokainen       Hugo Treffneri Gümnaasium     Eha Paabo              8,25     10,5 6,5      8,5     6       4    43,75 21,5 65,25
+          10 Sander Pajusalu          Hugo Treffneri Gümnaasium     Eha Paabo, Erki Enkvist 7,5     10,5 6         10    2,5     6,5     43     20      63
+          11 Aleksandr Bitjukov       Tallinna Tõnismäe Reaalkool   Lidia Rõbnikova         7,5       9   5,5      6      8       7      43             43
+          12 Dmitri Stepanov          Tallinna 53. Keskkool         Vladimir Ossipov        5,5      9,5 6,5       7      6       8    42,5            42,5
+          13 Kirill Alektorov         Tallinna Tõnismäe Reaalkool   Lidia Rõbnikova          5       10 4,5        8      6      8,5     42             42
+          14 Lilly Veskemaa           Nõo Reaalgümnaasium           Eevi Viirsalu           4,5     10,5 5,5      8,5     6      6,5   41,5            41,5
+          15 Ilja Lukonin             Tallinna 53. Keskkool         Vladimir Ossipov         6       10 5,5       2,5     8      8,5   40,5            40,5
+          16 Grigori Vassiljev        Narva Humanitaargümnaasium Nelli Avdejeva             4,5       9    4      6,5     6      9,5   39,5            39,5
+          17 Margit Ool               Saaremaa Ühisgümnaasium       Anne Teigamägi          6,5     10,5 5,5      1,5     6      7,5   37,5            37,5
+          18 Nikolai Voitsehhovski Narva Pähklimäe Gümnaasium Tatjana Jerošenko              9       9,5   6      6,5     6              37             37
+          19 Jaan Katus               Tallinna Reaalkool            Andrus Kangro            797,51636,56 36,5
+          20 Katre Annert             Tallinna Reaalkool            Andrus Kangro           0,5     10,5 5,5       4      6       9    35,5            35,5
+          21 Marko Eltermann          Tallinna Reaalkool            Andrus Kangro            7       9,5 5,5      1,5     6      4,5     34             34
+          22 Kadre Saare              C.R. Jakobsoni nim. Gümnaasi Jaan Usin                 1       10    6      5,5     5      2,5     30             30
+          23 Toomas Lillsaar          Suure-Jaani Gümnaasium        Tiina Idla              4,5       9    4       0      4       5    26,5            26,5

@@ -1,0 +1,22 @@
+                 1       Artur Knjasev            Narva Kesklinna Kool                Svetlana Stepanenko    14    13    8      6   9,7    7     58     29     86,8
+                 2       Mihhail Matvejev         Tallinna Lasnamäe Gümnaasium        Ljudmila Ivanova       11    13    8      8    9     7     56     30     85,5
+                 3       Jevgenia Koževnikova     Narva Pähklimäe Gümnaasium          Tatjana Lodeikina     8,8    12    8      8    4     7     48     27      75
+                 4       Oliver Lukason           Miina Härma Gümnaasium              Jüri Vene             7,5    11    8      6   6,2    7     45     28      73
+                 5       Heikki Kolk              Kuressaare Gümnaasium               Marju Kirss           7,2    11    8      8   2,5    7     43     29      72
+                 6       Deniss Savtšenko         Tallinna Tõnismäe Reaalkool         Lidia Rõbnikova        7     13    8      5   6,7    6     46     23     68,8
+                 7       Roman Leppik             Narva Pähklimäe Gümnaasium          Tatjana Lodeikina            12    8      7   7,5    5     39     30     68,7
+                 8       Aleksei Bredihhin        Kohtla-Järve Ühisgümnaasium         Ivi Tuuksam            15    12    7      8    12    4     58      8     65,9
+                 9       Julia Maslovskaja        Jõhvi Vene Gümnaasium               Viktor Moroz          7,8    12    8      8    4     6     45     19     64,2
+                 10      Urmo Visk                Nõo Reaalgümnaasium                 Evi Viirsalu           12    11    6      7   2,9    4     43      8     50,6
+                 11      Raiko Uri                Miina Härma Gümnaasium              Jüri Vene             3,2    13    8      5   3,8    4     36             36
+                 12      Dmitri Tarassjuk         Narva Pähklimäe Gümnaasium          Tatjana Lodeikina     2,1   9,2    7      7   4,5    6     35            35,3
+                 13      Mari Sepp                Miina Härma Gümnaasium              Jüri Vene              0     11    7      6   3,7    6     32            32,3
+                 14      Priit Seeman             Kuressaare Gümnaasium               Marju Kirss            0     8     7      8    3     6     32            31,7
+                 15      Roland Kender            Nõo Reaalgümnaasium                 Evi Viirsalu                 11    8      4   4,5    5     31            31,2
+                 16      Aleksandr Rakitin        Ahtme Gümnaasium                    Anna Rassadina         10   2,1    7      3    2     6     30            29,8
+                 17      Emilia Käsper            Hugo Treffneri Gümnaasium           Eha Paabo                   8,2    8      3    3     6     28            27,9
+                 18      Martin Vahi              Nõo Reaalgümnaasium                 Evi Viirsalu                9,7    8      2    3     5     27            27,4
+                 19      Aleksei Lossan           Narva Pähklimäe Gümnaasium          Tatjana Lodeikina           6,3    8      4    2     7     27            26,8
+                 20      Diana Silvet             Hugo Treffneri Gümnaasium           Eha Paabo              0    6,2    6      5    4     2     23             23
+                 21      Jaanis Sepp              Kuressaare Gümnaasium               Marju Kirss           1,1   7,7    7      1    2     0     19             19
+                 22      Anna Trofimova           Ahtme Gümnaasium                    Anna Rassadina         0     0     6      4   2,5    6     19            18,9

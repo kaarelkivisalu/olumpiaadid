@@ -1,0 +1,28 @@
+           1      Margit Ool          Saaremaa Ühisgümnaasium  A.Teigamägi               10   9,5    8    5,5   10,5  12   55,5    26    81,5
+           2      Aleksei Filippov    Narva Kesklinna Gümnaasium  T.Lodeikina           8,55  9,5    8    7,5    11  11,5 56,05    23   79,05
+           3      Andres Laan         Tallinna Inglise Kolledž      L.Kippasto        8,75  9,5    9     8     10  11,5 56,75    19   75,75
+           4      Grigori Vassiljev   Narva Humanitaargümnaasium  N.Avdejeva            9,5    6     9    7,5   10,5 11,5   54     18    72
+           5      Aleksandr Belugin   Narva Pähklimäe Gümnaasium  T.Lodeikina             8,9   9,5   6,5   5,7   10,8 11,5 52,85    19   71,85
+           6      Mihhail Komaško     Narva Pähklimäe Gümnaasium  T.Lodeikina           9,5   9,5   7,5   4,4   9,5 11,5 51,9      19    70,9
+           7      Rauno Raidma        Valga Gümnaasium              M.Madal           7,5   9,5    8    6,6    11   9,5  52,1    18    70,1
+           8      Tarmo Puolokainen  Aravete Keskkool                 K.Müür            7,7   9,5    8    7,5   10,8 11,5 54,95    15   69,95
+           9      Aleksandr Arhipov  Narva Pähklimäe Gümnaasium  T.Lodeikina              9,7   9,5    8    6,7    11   7,5  52,4    15    67,4
+           10     Maksim Ošeka        Haabersti Vene Gümnaasium  L.Teska                8,5   9,5   8,5   4,2    10   11   51,7    10    61,7
+           11     Andi Kipper         Gustav Adolfi ümnaasium       V.Sillaste        9,2   9,5    6    4,2    11  11,5  51,4          51,4
+           12     Kirill Alektorov    Tallinna Kesklinna Vene Gümn  M.Tšausskaja        8,8    6     8    5,7   10,3 11,5 50,25         50,25
+           13     Velle Toll          Orissaare Gümnaasium          K.Jõgi            8,7    6    7,5   7,1    9   11,5  49,8          49,8
+           14     Madli Pärn          Miina Härma Gümnaasium        H.Sorge           8,1    9    5,5   5,5    10  11,5  49,6          49,6
+           15     Jevgeni Martjušev  Tallinna Kesklinna Vene Gümn  M.Tšausskaja           8,1    7    6,5   6,1   9,5 11,5 48,7            48,7
+           16     Toomas Lillsaar   Suure-Jaani Gümnaasium            T.Idla            7,7   9,25  8,5   4,9   10,8  7,5  48,6          48,6
+           17     Paula Solvak        Tallinna Lilleküla Gümnaasium  A.Aigro            8,55  9,5    8    4,7    9     8   47,75        47,75
+           18     Zepp Uibo           Tartu Karlova Gümnaasiyum  A.Lukason             9,5    5    6,5   7,2   9,5   8,5  46,2          46,2
+           18     Dmitri Stepanov     Tallinna 53.Keskkool          V.Ossipov          3    9,25   8    3,7   10,8 11,5  46,2          46,2
+           20     Katre-Helena Käppa  Elva Gümnaasium                 E.Kikas           6,9   8,5    7    2,5    8    12   44,9          44,9
+           21     Inna Bodagovskaja  Narva Kesklinna Gümnaasium   T.Lodeikina              7,4    6    7,5   6,6   9,5   7,5  44,5          44,5
+           22     Inna Kordenkova   Tallinna Karjamaa Gümnaasium   N.Tkatšenko             7,4   4,5    8     5    9,5    9   43,4          43,4
+           23     Monika Päri         Haapsalu Wiedemanni Gümnaasium  E.Koort            8,9   6,5    5    5,2   7,75   9   42,35        42,35
+           24     Mikk Abram          Pärnu Ühisgümnaasium          E.Saks            5,25   2     5    7,6   10,8 11,5  42,1          42,1
+           25     Liidia Nazarova     Narva Kesklinna Gümnaasium   T.Lodeikina                 9,5    8    6,7    5   11,5  40,7          40,7
+           26     Artur Sanglepp      Tallinna Järveotsa Gümnaasium  M.Mölder           0,15  8,5    8    5,5    6    11   39,15        39,15
+           27     Maksim Tšepurin     Tallinna Paekaare Gümnaasium  L.Prohhorenko       1,5    5     7    6,7    9    7,5  36,7          36,7
+           28     Lilly Veskemaa      Vändra Gümnaasium             T.Tõnismann             5,5   8,5   6,6    3    7,5  31,1          31,1

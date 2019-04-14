@@ -1,0 +1,29 @@
+             Eesti koolinoorte 53. keemiaolümpiaadi lõppvoor                                                  9. klass
+                                                                                                                                             10.-11. märts 2006. a.
+             Koht Nimi                        Kool                             Aineõpetaja           1     2      3       4      5     6      T      E     Kokku
+                                                                               Maksimum              11    8      11     10     10    10      60     30       90
+             1       Taavi Pungas           Tallinna Prantsuse Lütseum         Marge Oopkaup         11     8      11     10     10    10      60     28      88
+             2       Dmitri Tsõvarev        Narva Pähklimäe Gümnaasium         Tatjana Jerošenko     11    7,75    10     8,5   9,5    10    56,75    28    84,75
+             3       Maksim Buldakov        Tartu Descartes'i Lütseum          Vilja Toots           6      8      11     10    9,5    10    54,5     30     84,5
+             4       Kerstin Ruustal        Tallinna Inglise Kolledž           Lilian Kippasto       6      8    10,75 9,5       10    10    54,25    30    84,25
+             5       Enno Kirismäe          Tartu Kivilinna Gümnaasium         Helgi Muoni           10    7,5    8,25    9,5   9,5     9    53,75    27    80,75
+             6       Rasmus Lubi            Miina Härma Gümnaasium             Helle Sorge         10,3     8      10      9    9,5     8    54,8     25     79,8
+             7       Lauri Taaleš           Tõrva Gümnaasium                   Anne Õunapuu          11     8    10,75    10     10    10    59,75    13    72,75
+             8       Viktor Karabut         Ahtme Gümnaasium                   Anna Rassadina        11    7,75   8,75     9     10    10    56,5     10     66,5
+             9       Mark Gimbutas          Tartu Kommertsgümnaasium           Liina Karolin-Salu  10,7    7,5   10,75    10    9,5     8    56,45    10    66,45
+             10      Sofja Tšepelevitš      Kohtla-Järve Tammiku Gümnaasiu     Nadežda Pavljut     10,7     8     8,25    10    9,5    10    56,45     7    63,45
+             11      Siim Rinken            Tartu Kivilinna Gümnaasium         Helgi Muoni          6,7    6,5    10,5    10     10    10    53,7            53,7
+             12      Sergei Ponomarjov      Narva Humanitaargümnaasium         Nelli Avdejeva        67,75111099,53,255                                     53,25
+             13      Jekaterina Izotova     Tallinna Mustamäe Reaalgümnaasi    Irina Žikina         8,2    7,75    11      7    8,25    8    50,2            50,2
+             14      Lauri Hein             Miina Härma Gümnaasium             Helle Sorge           6     6,5    10,5     8    9,5     9    49,5            49,5
+             14      Kairi Kangro           Ülenurme Gümnaasium                Lea Ehrlich           10    4,75   8,25    8,5    9      9    49,5            49,5
+             16      Anastassia Matviitsuk  Narva Humanitaargümnaasium         Nelli Avdejeva       4,5     7      11      8     8     10    48,5            48,5
+             17      Veronika Hantson       A. Haava nimeline Pala Kool        Helgi Vaga           6,5     8      9,5    7,5   6,75    9    47,25          47,25
+             18      Dmitri Nehajev         Tallinna Tõnismäe Reaalkool        Lidia Rõbnikova     10,5     6      8,5    5,5   9,5     7      47             47
+             19      Roger Mikomägi         Tallinna 32. Keskkool              Janno Puks            7     6,75    7,5     8    8,5     8    45,75          45,75
+             20      Valdeko Kruusvee       Tallinna Reaalkool                 Andrus Kangro         11    7,5    10,5    7,5   6,5     2      45             45
+             21      Margot Sepp            Kambja Ignatsi Jaagu Põhikool      Pille Lüdimois       4,7    7,25 10,25 9,5       8,5     4    44,2            44,2
+             22      Ella-Anu Puusepp       Tallinna Reaalkool                 Andrus Kangro         4     6,5    7,75    8,5    8      8    42,75          42,75
+             23      Filipp Šnaider         Tallinna Kesklinna Vene Gümnaasi   Margarita Tšausska   5,7    7,5   10,25 7,5      9,75    2    42,7            42,7
+             24      Silvar Vahkal          Kuressaare Gümnaasium              Irja Truumaa         1,7    4,25    9,5     8     6      8    37,45          37,45
+             25      Märt Lõkov             Tartu Forseliuse Gümnaasium        Aivar Vinne           5     7,5   10,25 5,5       6      3    37,25          37,25

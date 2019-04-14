@@ -1,0 +1,28 @@
+                Eesti koolinoorte 61. keemiaolümpiaadi lõppvoor
+                                                              28.-29. märts 2014. a                                                                              11. klass
+                  Koht             Nimi                          Kool                       Õpetaja             123456TN KokkuEksperiment Kokku Järk
+                                                                                                                12        11         9         7         10        11       -0.5       60            30            90
+                    1         Rasmus Kisel           Gustav Adolfi Gümnaasium            Lilian Kippasto        10       10.5       8.5        7        7.5        10       -0.5       53            29            82         I
+                    2          Raul Rinken          Hugo Treffneri Gümnaasium              Eha Paabo           11.5      6.75       6.5        6        3.5        7.5      -0.5     41.25           30          71.25       II
+                    3           Mait Ainsar         Rapla Vesiroosi Gümnaasium             Kersti Nõu           10         97675.75 -0.5 44.25                                                      26.1         70.35       II
+                    4         Rasmus Born           Hugo Treffneri Gümnaasium              Eha Paabo            9         8.5        5         7        4.25        5       -0.5     38.25           25          63.25       III
+                    5         Kaspar Uuselu          Gustav Adolfi Gümnaasium            Lilian Kippasto        8         8.5       6.5       4.5        3        6.25      -0.5     36.25          24.6         60.85       III
+                    6     Tiit Hendrik Piibeleht     Gustav Adolfi Gümnaasium            Lilian Kippasto        11       4.75        7         3        2.25        6       -0.5      33.5          24.5           58
+                    7        Egert Männisalu              Tallinna Reaalkool             Andrus Kangro          979405-0.5 33.5 22.1 55.6
+                    8      Hans Daniel Kaimre       Hugo Treffneri Gümnaasium              Eha Paabo            10        4.5        9         6         2         2.5      -0.5      33.5          21.8         55.3
+                    9         Rasmus Zalite          Gustav Adolfi Gümnaasium            Lilian Kippasto        7         7.5       7.5        6        1.5        5.5      -0.5      34.5          20.5           55
+                   10           Julia Žoga         Narva Pähklimäe Gümnaasium          Tatjana Jerošenko       9.5        3.5       6.5        7        2.5        6.5                35.5            5          40.5
+                   11         Silver Juvanen           Nõo Reaalgümnaasium                Aivar Vinne           9         4.5        5         7        3.5         5       -0.5      33.5                       33.5
+                   12        Magnus Kaldjärv        Saaremaa Ühisgümnaasium                Raili Tamm          9.5        1.5        9         3        1.75       7.5               32.25                       32.25
+                   13        Aleksei Murohh          Tallinna Läänemere Gümn.         Tatjana Lapotškina        8        0.75       6.5        6         3          7       -0.5     30.75                       30.75
+                   14       Joosep Henrik Sild       Miina Härma Gümnaasium               Erkki Tempel          8         4.5        4         5        2.75       6.5      -0.5     30.25                       30.25
+                   15            Anti Kaar                Tallinna Reaalkool             Andrus Kangro         7.5        6.5        8         6        2.5         0       -0.5       30                          30
+                   16      Jaak Joonas Keldoja      Hugo Treffneri Gümnaasium              Eha Paabo           9.75      4.75       8.5        1        1.5       4.25      -0.5     29.25                       29.25
+                   17        Helle-Mai Piirsoo         Nõo Reaalgümnaasium                Aivar Vinne          8.5       4.75       6.5        6         1        2.25      -0.5      28.5                       28.5
+                   18        Pille-Riin Paavo             Tallinna Reaalkool             Andrus Kangro          9        4.75       3.5        3        1.5         5       -0.5     26.25                       26.25
+                   19        Olga Kamõševa         Tallinna Õismäe Vene Lütseum        Pelageja Ozerova         6        3.75       6.5        2         0         6.5      -0.5     24.25                       24.25
+                   20         Markus Laars                Tallinna Reaalkool             Andrus Kangro         9.5        2.5       6.5        0         1        3.25               22.75                       22.75
+                   21       Maria Maloverjan        Tallinna Tõnismäe Reaalkool         Lidia Rõbnikova        8.5       3.75        5        1.5        1         2.5               22.25                       22.25
+                   22         Kenneth Tuul                Tallinna Reaalkool             Andrus Kangro         5.5       2.75       2.5        4         0         7.5      -0.5     21.75                       21.75
+                   23          Kerstin Äkke               Tallinna Reaalkool             Andrus Kangro           -        8.5       7.5        0         0        4.25               20.25                       20.25
+                   24        Kadri-Ann Kallas             Tallinna Reaalkool             Andrus Kangro          7         3.5        2         2        1.25      2.25      -0.5      17.5                       17.5
