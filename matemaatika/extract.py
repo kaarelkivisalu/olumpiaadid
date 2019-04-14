@@ -59,13 +59,17 @@ for x in os.listdir("pdf"):
                 prev_placement = i
                 prev_points = points
             cls = def_cls
-            if name[-1] == '*' and x in other_class_markers:
-                name = name[:-1]
-                cls = other_class_markers[x]
             cls_special = re.search(cls_regex, name)
             if cls_special:
                 cls = int(cls_special[1])
                 name = re.sub(cls_regex, "", name).strip()
+            if name[-2:] == "**":
+                name = name[:-2]
+            elif name[-1] == '*' and x in other_class_markers:
+                name = name[:-1]
+                cls = other_class_markers[x]
+            elif name[-1] == '*':
+                name = name[:-1]
             data[year].append({"name":name,"class":cls,"age_group":str(def_cls),"score":points,"school":school,"placement":placement})
             i += 1
 
