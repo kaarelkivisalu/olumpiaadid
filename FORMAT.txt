@@ -1,0 +1,28 @@
+Iga olümpiaadi/võistluse tulemused olgu eraldi foldris. Selles foldris võib olla alafolder "pdf", kus on PDFid tulemustest, mis on kuskil internetiavarustes saadaval.
+
+Igas foldris peaks olema JSON failid nimega "<aasta>.json" (nt. 2019.json), kus on selle aasta tulemused.
+
+JSON failide formaat: object, kus on võtmed:
+"age_groups": list, milles iga element on object, millel on võtmed "name" (mille järgi võetakse scores-is age_group), "min_class" (vähim klass, kellele see vanuserühm mõeldud on), "max_class" (suurim klass, kellele see vanuserühm on)
+"scores": list, milles iga element on object. Sellel objectil on võtmed "name" (osaleja täisnimi), "class" (osaleja klass), "age_group" (vanuseklass, milles osaleja võistles), "score" (kui palju punkte koguti - olümpiaadidel, kus on punktiarvestus keerulisem, tuleks kasutada skoori mille järgi auhinnad anti), "placement" (mitmes koht oma vanuseklassis saavutati), "school" (kool, milles õpilane võistluse ajal õppis)
+
+Näide: (2019. känguru tulemustest)
+
+{
+    "age_groups": [
+        {"name": "Pre-ekolier", "min_class": 1, "max_class": 2},
+        {"name": "Ekolier", "min_class": 3, "max_class": 4},
+        ...
+    ],
+    "scores": [
+        {
+            "name": "Andres Alumets",
+            "class": 10,
+            "age_group": "Juunior",
+            "score": 144,
+            "placement": 1,
+            "school": "Pärnu Koidula Gümnaasium"
+        },
+        ...
+    ]
+}
