@@ -8,9 +8,7 @@ Koht,Nimi,Kool,Õpetaja,1,2,3,4,5,6,T,E,Kokku,Järk
 4,Kert Pütsepp,Tallinna Reaalkool,Andrus Kangro,12.25,9.5,6,11,6.5,8,53.25,25.5,78.75,II
 5,Julia Tšeglakova,Tallinna Humanitaargümnaasium,Tatjana Knjagnitskaja,12.75,7.5,6,11,8,3,48.25,28.74,76.99,III
 6,Silver Abel,Nõo Reaalgümnaasium,Aivar Vinne,11.4,1.75,6,11,7.5,9,46.65,30,76.65,III
-,,"Tallinna Reaalkool,","Andrus Kangro,",,,,,,,,,,
-7,Kadi Liis Saar,,,13.75,11.5,6,11,8,8,58.25,18,76.25,III
-,,Tallinna Inglise Kolledž,Lilian Kippasto,,,,,,,,,,
+7,Kadi Liis Saar,"Tallinna Reaalkool, Tallinna Inglise Kolledž","Andrus Kangro, Lilian Kippasto",13.75,11.5,6,11,8,8,58.25,18,76.25,III
 8,Ants Remm,Hugo Treffneri Gümnaasium,Eha Paabo,12.75,6.5,5.5,11,6,9,50.75,22.5,73.25,
 9,Iiris Lüsi,Nõo Reaalgümnaasium,Aivar Vinne,9.7,5.5,6,11,7.5,8,47.7,23.5,71.2,
 10,Uku-Laur Tali,Hugo Treffneri Gümnaasium,Eha Paabo,11.25,5.5,5.5,11,5.5,8,46.75,23.5,70.25,
