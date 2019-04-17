@@ -5,9 +5,7 @@ Koht,Nimi,Kool,Õpetaja,1,2,3,4,5,6,T,E,Kokku Järk,
 1,Maria Krajuškina,Tallinna Inglise Kolledž,Lilian Kippasto,10,4,"10,5","6,75","8,25",9,"48,5","20,24","68,74",I
 1,Uku-Kaspar Uustalu,Tallinna Reaalkool,Andrus Kangro,"8,5",8,10,7,11,6,"50,5","18,23","68,73",I
 3,Raul Rinken,Tartu Kivilinna Gümnaasium,Helgi Muoni,7,5,11,"7,25","11,25",10,"51,5","13,18","64,68",II
-,Timothy Henry,,,,,,,,,,,,
-4,,Gustav Adolfi Gümnaasium,Katrin Soika,10,"7,75","9,25","4,75","10,75",8,"50,5","13,35","63,85",II
-,Charles Tamm,,,,,,,,,,,,
+4,Timothy Henry Charles Tamm,Gustav Adolfi Gümnaasium,Katrin Soika,10,"7,75","9,25","4,75","10,75",8,"50,5","13,35","63,85",II
 5,Mihkel Kotli,Tallinna Reaalkool,Andrus Kangro,7,"3,5",10,"7,25","8,25","10,5","46,5","12,84","59,34",III
 6,Heigo Ers,Kohtla-Järve Järve Gümnaasium,Pille Ers,8,"7,5",9,8,"6,5","8,5","47,5","8,01","55,51",
 7,Karl Erik Lillo,Tallinna Reaalkool,Andrus Kangro,"9,5","1,75","6,5","6,5","11,75",9,45,"9,45","54,45",
