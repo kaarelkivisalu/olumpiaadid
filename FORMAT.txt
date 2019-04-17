@@ -3,8 +3,19 @@ Iga olümpiaadi/võistluse tulemused olgu eraldi foldris. Selles foldris võib o
 Igas foldris peaks olema JSON failid nimega "<aasta>.json" (nt. 2019.json), kus on selle aasta tulemused.
 
 JSON failide formaat: object, kus on võtmed:
-"age_groups": list, milles iga element on object, millel on võtmed "name" (mille järgi võetakse scores-is age_group), "min_class" (vähim klass, kellele see vanuserühm mõeldud on), "max_class" (suurim klass, kellele see vanuserühm on)
-"scores": list, milles iga element on object. Sellel objectil on võtmed "name" (osaleja täisnimi), "class" (osaleja klass), "age_group" (vanuseklass, milles osaleja võistles), "score" (kui palju punkte koguti - olümpiaadidel, kus on punktiarvestus keerulisem, tuleks kasutada skoori mille järgi auhinnad anti), "placement" (mitmes koht oma vanuseklassis saavutati), "school" (kool, milles õpilane võistluse ajal õppis)
+    "age_groups": list, milles iga element on object, millel on võtmed:
+        "name" (mille järgi võetakse scores-is age_group),
+        "min_class" (vähim klass, kellele see vanuserühm mõeldud on),
+        "max_class" (suurim klass, kellele see vanuserühm on),
+        "ex_labels" (list stringidest, ülesannete nimetused scores_per_ex jaoks)
+    "scores": list, milles iga element on object, millel on võtmed:
+        "name" (osaleja täisnimi),
+        "class" (osaleja klass),
+        "age_group" (vanuseklass, milles osaleja võistles),
+        "score" (kui palju punkte koguti - olümpiaadidel, kus on punktiarvestus keerulisem, tuleks kasutada skoori mille järgi auhinnad anti),
+        "placement" (mitmes koht oma vanuseklassis saavutati),
+        "school" (kool, milles õpilane võistluse ajal õppis),
+        "scores_per_ex" (punktid ülesannete kaupa - ülesannete nimed on age_groups'is)
 
 Näide: (2019. känguru tulemustest)
 
@@ -22,6 +33,37 @@ Näide: (2019. känguru tulemustest)
             "score": 144,
             "placement": 1,
             "school": "Pärnu Koidula Gümnaasium"
+        },
+        ...
+    ]
+}
+
+2018. keemia lõppvoorust:
+{
+    "age_groups": [
+        {
+            "name": "9",
+            "min_class": 9,
+            "max_class": 9,
+            "ex_labels": ["1","2","3","4","5","6","7","8","9","6 parimat","Praktika"]
+        },
+        ...
+        {
+            "name": "12",
+            "min_class": 12,
+            "max_class": 19, 
+            "ex_labels": ["1","2","3","4","5","6","Teooria kokku","Praktika"]
+        }
+    ],
+    "scores": [
+        {
+            "name": "Juri Volodin",
+            "class": 12,
+            "age_group": "12",
+            "score": 86.8,
+            "placement": 1,
+            "school": "Tallinna Õismäe Vene Lütseum",
+            "scores_per_ex": [7.5, 12, 8, 9, 7, 10.5, 49.8, 37.0]
         },
         ...
     ]
