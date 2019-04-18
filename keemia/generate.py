@@ -46,6 +46,8 @@ line_parse_modes = [
     ["1","2","3","4","5","6","Teooria", "Teooria (max 60)", "Praktika"],
 ]
 
+age_group_parse_modes = dict()
+
 def main():
     for fname in sorted(os.listdir("pdf")):
         if not fname.endswith(".csv"):
@@ -56,12 +58,16 @@ def main():
         age_group = int(match[2])
         # year before first olympiad
         year = int(match[1])+1953
+        seen_parse_modes = set()
+        num_ok_rows = 0
         with open("pdf/"+fname) as f:
             for row in csv.reader(f):
                 if len(row) == 0:
                     continue
                 placement = parse_first_col(row[0])
                 if placement is None:
+                    if num_ok_rows > 0:
+                        print(f"Warning: skipped line not at beginning of file in {fname}")
                     continue
                 cls = age_group
                 name = row[1].replace("\n"," ")
@@ -84,8 +90,8 @@ def main():
                 #     print(f"Warning: {name} (from {fname}) doesn't look like a proper name")
                 # if not is_proper_name(school):
                 #     print(f"Warning: {school} (from {fname}) doesn't look like a proper name")
-                # if teacher_name == "":
-                #     print(f"Warning: no teacher name in row {placement} of {fname}")
+                if teacher_name == "":
+                    print(f"Warning: no teacher name in row {placement} of {fname}")
                 if school == "": print(f"Warning: empty school name in {fname} line {placement}")
                 if name == "": print(f"Warning: empty name in {fname} line {placement}")
                 if len(row) not in (13, 14, 15, 17):
@@ -105,11 +111,14 @@ def main():
                 elif len(row) == 15:
                     # has a silly thing where theory points are rescaled from max 65 points to max 60 points, then prax points added
                     line_parse_mode = 3
+                if len(seen_parse_modes) > 0 and line_parse_mode not in seen_parse_modes:
+                    print(f"Warning: conflicting parse modes ({seen_parse_modes} vs {line_parse_mode}) in {fname}")
+                seen_parse_modes.add(line_parse_mode)
                 num_exs = len(line_parse_modes[line_parse_mode])
                 total_points_col = num_exs + 4
                 exs_points = []
                 not_ok = False
-                for x in range(num_exs+1):
+                for x in range(num_exs):
                     val = row[x+4]
                     if val in ("", "-"):
                         exs_points.append(0)
@@ -139,16 +148,43 @@ def main():
                 d = {
                     "name": name,
                     "class": cls,
-                    "age_group": age_group,
+                    "age_group": str(age_group),
                     "score": total_points,
                     "placement": placement,
                     "school": school,
                     "scores_per_ex": exs_points,
                 }
                 years[year].append(d)
+                num_ok_rows += 1
+        if num_ok_rows == 0:
+            print(f"Error: no valid rows in {fname}")
+            continue
+        elif num_ok_rows < 17:
+            print(f"Warning: few rows in {fname} ({num_ok_rows}, expected >=17)")
+        # should every only get 1 member so pop should be safe
+        try:
+            age_group_parse_modes[(year, age_group)] = seen_parse_modes.pop()
+        except:
+            print(f"error in {fname}")
+            raise
 
-    with open("h.json",'w') as f:
-        json.dump(years, f)
+
+    for k,v in years.items():
+        with open(f"{k}.json",'w') as f:
+            age_groups = []
+            for x in age_group_parse_modes:
+                if x[0] == k:
+                    age_groups.append({
+                        "name": str(x[1]),
+                        "min_class":x[1],
+                        "max_class":x[1],
+                        "ex_labels": line_parse_modes[age_group_parse_modes[x]]
+                    })
+            d = {
+                "age_groups": age_groups,
+                "scores": v
+            }
+            json.dump(d, f)
 
 if __name__ == "__main__":
     main()
