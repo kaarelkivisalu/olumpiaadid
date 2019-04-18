@@ -31,9 +31,6 @@ Koht,Nimi,Kool,Aineõpetaja,1,2,3,4,5,6,T,E,Kokku
 27,Marko Eltermann,Tallinna Reaalkool,A.Kangro,"8,7","0,5",7,10,"4,5",10,"40,7",,"40,7"
 28,Dmitri Stepanov,Tallinna 53. Keskkool,V.Ossipov,"5,2",1,"8,5","8,5",10,7,"40,2",,"40,2"
 29,Alissa Pankova*,Tartu Slaavi Gümnaasium,T. Ojavere,"4,5",1,"6,5","8,8",8,10,"38,75",,"38,75"
-
-Koht,Nimi,Kool,Aineõpetaja,1,2,3,4,5,6,T,E,Kokku
-,,,Maksimum,11,9,9,10,11,10,60,30,90
 30,Katre Annert,Tallinna Reaalkool,A.Kangro,"4,7",1,"8,5",10,"4,5",10,"38,7",,"38,7"
 31,Zepp Uibo,Hugo Treffneri Gümnaasium,E.Paabo,"3,9",1,"4,5",10,"10,8",8,"38,15",,"38,15"
 32,Ilja Lukonin,Tallinna 53. Keskkool,V.Ossipov,"7,25",1,"8,5",10,,9,"35,75",,"35,75"
@@ -45,4 +42,3 @@ Koht,Nimi,Kool,Aineõpetaja,1,2,3,4,5,6,T,E,Kokku
 38,Kadre Saare,C.R.Jakobsoni nim. Gümnaasium,J.Usin,4,1,"2,5",10,,"8,6","26,1",,"26,1"
 39,Mikk Antsov,C.R.Jakobsoni nim. Gümnaasium,J.Usin,2,"6,3","0,5","8,3","0,25","7,75",25,,25
 40,Andres Järv,Rakvere Reaalgümnaasium,M.Murs,"3,8",,4,"5,8",,"6,95","20,5",,"20,5"
-,* 9. klassi õpilane,,,,,,,,,,,

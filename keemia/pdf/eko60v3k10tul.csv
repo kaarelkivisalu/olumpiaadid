@@ -5,7 +5,7 @@ Nr.,Õpilase nimi,Kool,Õpetaja nimi,1,2,3,4,5,6 Kokku,,,Sum,Järk
 1,Rasmus Kisel,Gustav Adolfi Gümnaasium,Martin Saar,10.00,6.00,8.50,9.50,12.00,8.50,54.50,28.00,82.50,I
 2,Raul Rinken,Hugo Treffneri Gümnaasium,Eha Paabo,6.50,6.50,9.50,9.25,12.00,8.00,51.75,24.75,76.50,II
 3,Tiit Hendrik Piibeleht,Gustav Adolfi Gümnaasium,Martin Saar,7.50,8.00,8.50,9.25,6.50,6.50,46.25,28.50,74.75,II
-4 Paul Kolk,,Kuressaare Gümnaasium,Marju Kirss,9.00,7.00,7.50,9.50,12.00,7.00,52.00,18.00,70.00,III
+4,Paul Kolk,Kuressaare Gümnaasium,Marju Kirss,9.00,7.00,7.50,9.50,12.00,7.00,52.00,18.00,70.00,III
 5,Mait Ainsar,Rapla Vesiroosi Gümnaasium,"Maaja Toomet/Riina Serglov",5.50,8.00,8.00,8.25,6.50,6.50,42.75,26.00,68.75,III
 6,Aleksei Murohh,Tallinna Läänemere Gümnaasium,Tatjana Lapotškina,8.50,8.00,9.00,9.25,12.00,7.00,53.75,13.00,66.75,
 7,Hans Daniel Kaimre,Hugo Treffneri Gümnaasium,Eha Paabo,6.00,6.00,7.50,9.00,4.00,6.00,38.50,28.00,66.50,
@@ -25,4 +25,4 @@ Nr.,Õpilase nimi,Kool,Õpetaja nimi,1,2,3,4,5,6 Kokku,,,Sum,Järk
 21,Georg Kuusik,Tallinna Inglise Kolledž,Lilian Kippasto,1.50,6.00,6.50,6.50,7.50,3.00,31.00,,31.00,
 22,Ervin Oro,Tallinna Reaalkool,Andrus Kangro,4.00,4.50,6.50,9.25,3.50,2.50,30.25,,30.25,
 23,Maria Maloverjan,Tallinna Tõnismäe Reaalkool,Lidia Rõbnikova,5.50,7.00,0.50,8.75,6.50,1.50,29.75,,29.75,
-24 Silver Schnur,,Gustav Adolfi Gümnaasium,Martin Saar,4.00,6.00,,8.25,3.00,2.00,23.25,,23.25,
+24,Silver Schnur,Gustav Adolfi Gümnaasium,Martin Saar,4.00,6.00,,8.25,3.00,2.00,23.25,,23.25,
