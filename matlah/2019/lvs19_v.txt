@@ -1,0 +1,56 @@
+               1 Artur Avameri               Hugo Treffneri Gümnaasium                    12   Kerli Orav-Puurand                     7    7   7   7   7   5     40        I
+               2 Hendrik Vija                Miina Härma Gümnaasium                       12   Kristi Kreutzberg                      3    7   7   7   7   –     31        II
+               3 Daniil Vaino                Narva Pähklimäe Gümnaasium                   12   Irina Stalnuhhina, Aleksandr Sutõrin   7    5   7   1   0   7     27        II
+               4 Kristjan-Erik Kahu          Miina Härma Gümnaasium                        9   Janika Kaljula                         7    7   7   –   0   0     21        III
+               5 Martin Rahe                 Tallinna Reaalkool                           11   Helli Juurma                           7    7   4   2   0   –     20        III
+               6 Rasmus Saame                Tallinna Reaalkool                           12   Andres Talts                           7    4   7   0   1   0     19        III
+               7 Andres Alumets              Pärnu Koidula Gümnaasium                     11   Ants Alumets                           1    –   7   –   7   –     15        III
+               8 Lee Ann Madissoon           Tallinna Reaalkool                           11   Kerli Kupits                           7    7   0   0   0   0     14        III
+               8 Jaagup Tamme                Hugo Treffneri Gümnaasium                    11   Ülle Hüva                              7    7   –   –   0   –     14        III
+              10 Jarl Patrick Paide          Tallinna Reaalkool                           12   Andres Talts                           4    4   0   1   4   –     13
+              10 Hannes Hendrik Kisel        Vanalinna Hariduskolleegium                  12   Pilve Uussaar                          7    4   1   –   1   –     13
+              10 Konstantin Dukatš           Narva Keeltelütseum                          12   Aleksandr Sutõrin                      0    7   6   –   0   –     13
+              13 Robert Kurvits              Hugo Treffneri Gümnaasium                    11   Ülle Hüva                              5    7   0   0   0   0     12
+              13 Andres Aleksander Tammer  Miina Härma Gümnaasium                           12   Kristi Kreutzberg                      4    7   0   –   1   –     12
+              13 Oliver Tennisberg           Hugo Treffneri Gümnaasium                    10   Ehtel Timak                            7    4   –   –   1   0     12
+              13 Mihhail Mihhailov           Narva Keeltelütseum                          11   Aleksandr Sutõrin                      4    7   0   0   1   0     12
+              13 Karl-Joan Alesma            Viljandi Gümnaasium                          12   Malle Eglit                            5    7   –   –   –   –     12
+              18 Mihkel Jaas Karu            Gustav Adolfi Gümnaasium                     11   Riina Timmermann                       4    7   –   0   0   –     11
+              18 Christian Roos              Tallinna 21. Kool                            12   Alar Pukk                              7    4   –   –   0   0     11
+              18 Anastassija Nesterova       Tallinna Linnamäe Vene Lütseum               12   Natalja Sazonova                       7    3   1   0   0   –     11
+              18 Pihla Järv                  Hugo Treffneri Gümnaasium                    12   Kerli Orav-Puurand                     7    3   0   –   1   –     11
+              22 Kaarel August Kurik         Tallinna Reaalkool                           12   Andres Talts                           0    7   1   2   –   0     10
+              22 Daniil Iljin                Narva Keeltelütseum                          11   Aleksandr Sutõrin                      4    6   –   0   0   –     10
+              22 German Lužin                Narva Pähklimäe Gümnaasium                   11   Irina Stalnuhhina                      3    6   –   –   1   –     10
+              22 Nikolai Sovetnikov          Narva Pähklimäe Gümnaasium                   11   Irina Stalnuhhina                      0    4   6   –   0   –     10
+              22 Jevgeni Lazarski            Pärnu Sütevaka Humanitaargümnaasium          11   Piret Rõigas                           5    4   –   –   1   –     10
+              27 Richard Friedrichs          Gustav Adolfi Gümnaasium                     11   Riina Timmermann                       2    4   2   0   1   –      9
+              27 Martti Karl Elvisto         Tallinna Vaba Waldorfkool                    11   Sirje Tibar                            0    2   7   –   0   0      9
+              27 Kaarel Kivisalu             Tallinna Reaalkool                           12   Andres Talts                           7    0   1   0   1   0      9
+              27 Märt Tender                 Tallinna 21. Kool                            12   Alar Pukk                              5    4   –   0   0   0      9
+              31 Kaur Karjus                 Nõo Reaalgümnaasium                          11   Ülle Juurik                            7    1   –   –   –   –      8
+              31 Toomas Roosma               Hugo Treffneri Gümnaasium                    12   Kerli Orav-Puurand                     1    5   2   0   0   0      8
+              33 Kevin Sults                 Tallinna Reaalkool                           11   Helen Kaasik                           1    5   1   –   0   0      7
+              33 Valeriy Svechnikov          Narva Vanalinna Riigikool                    12   Jelena Pogudina                        0    7   –   –   –   –      7
+              33 Triinu-Liis Torri           Saaremaa Ühisgümnaasium                      11   Linda Kuuseok                          3    4   0   –   0   0      7
+             36 Joonatan Ristmäe          Hugo Treffneri Gümnaasium                  11   Ülle Hüva                            6   0   –   –   0   –     6
+             36 Mark Theodor Jalakas      Hugo Treffneri Gümnaasium                  11   Ülle Hüva                            1   4   1   –   –   0     6
+             36 Kaur Veere                Hugo Treffneri Gümnaasium                  11   Ülle Hüva                            0   4   1   –   1   –     6
+             36 Janari Mõlder             Kuressaare Gümnaasium                      11   Signe Vahkal                         5   1   –   –   0   –     6
+             40 Andrey Gorbovskiy         Lasnamäe Vene Gümnaasium                   11   Maria Petnjunas                      0   5   0   –   0   –     5
+             40 Kaarel Kristjan Katmuk    Tallinna Reaalkool                         11   Helli Juurma                         1   4   –   –   0   –     5
+             40 Kadi Siigur               Hugo Treffneri Gümnaasium                  12   Kerli Orav-Puurand                   3   0   0   1   1   0     5
+             40 Jaan Otter                Hugo Treffneri Gümnaasium                  11   Ülle Hüva                            1   4   0   –   0   –     5
+             40 Kennar Kahju              Saaremaa Ühisgümnaasium                    11   Linda Kuuseok                        4   1   0   –   0   0     5
+             40 Villem Mändmaa            Viljandi Gümnaasium                        11   Margit Nuija                         0   5   –   –   –   0     5
+             40 Maksim Dorš               Jõhvi Gümnaasium                           11   Žanna Arganova                       0   5   –   0   0   –     5
+             47 Severin Bratus            Tallinna Reaalkool                         11   Helli Juurma                         4   –   –   –   0   0     4
+             47 Andreas Simson            Tallinna Reaalkool                         12   Andres Talts                         4   0   0   0   –   –     4
+             47 Henry Kaljulaid           Nõo Reaalgümnaasium                        11   Mikk Põdra                           0   4   0   0   0   0     4
+             47 Pavel Smirnov             Narva Vanalinna Riigikool                  12   Jelena Pogudina, Aleksandr Sutõrin   0   4   0   0   –   –     4
+             47 Ksenija Okuneva           Narva Pähklimäe Gümnaasium                 11   Irina Stalnuhhina                    0   4   0   –   0   –     4
+             47 Dmitri Kuznetsov          Jõhvi Gümnaasium                           11   Žanna Arganova                       0   4   0   –   0   0     4
+             53 Laas Hendrik Lumberg      Nõo Reaalgümnaasium                        11   Mikk Põdra                           0   3   0   0   0   0     3
+             53 Bert Siimon               Viljandi Gümnaasium                        12   Malle Eglit                          1   0   0   1   1   –     3
+             53 Johanna Taggu             Pärnu Sütevaka Humanitaargümnaasium        12   Margit Roomet                        0   3   –   –   0   –     3
+             53 Ave-Triin Gurjanov        Pärnu Sütevaka Humanitaargümnaasium        11   Piret Rõigas                         1   2   –   –   0   –     3

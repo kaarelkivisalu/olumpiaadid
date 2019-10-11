@@ -1,0 +1,91 @@
+               1 Birgit Veldi              Tallinna Reaalkool                            10  Helen Kaasik                              7   7   7   7   7   7     42       I
+               1 Hannes Sidorov            Hugo Treffneri Gümnaasium                     10  Ehtel Timak                               7   7   7   7   7   7     42       I
+               3 Marko Tsengov             Tallinna Reaalkool                            10  Helen Kaasik                              7   7   7   7   7   6     41       I
+               4 Liis Siigur               Miina Härma Gümnaasium                        10  Mai Aavasalu                              7   7   6   7   7   5     39       II
+               5 Aleksander Karpov         Tallinna Kesklinna Vene Gümnaasium            9   Marina Sedneva                            7   7   7   7   7   –     35       III
+               5 Bronislav Shatil          Narva Keeltelütseum                           7   Natalja Jemeljanova, Aleksandr Sutõrin    7   7   7   7   7   –     35       III
+               7 Mihkel Jakobson           Tallinna Reaalkool                            10  Helen Kaasik                              7   7   7   6   7   0     34       III
+               7 Uku Andreas Reigo         Miina Härma Gümnaasium                        10  Mai Aavasalu                              0   7   7   7   7   6     34       III
+               7 Aleksei Ganyukov          Narva Pähklimäe Gümnaasium                    9   Olga Gracheva                             7   5   7   7   7   1     34       III
+             10 Peeter Aleksander Randla   Tallinna Reaalkool                            10  Helen Kaasik                              0   7   7   7   7   5     33       III
+             10 Ralf Joosep Kask           Tallinna Reaalkool                            10  Helen Kaasik                              7   5   7   7   7   0     33       III
+             10 Aleksei Jemeljanov         Narva Keeltelütseum                           8   Natalja Jemeljanova                       7   7   6   5   7   1     33       III
+             13 Pärl Pind                  Hugo Treffneri Gümnaasium                     10  Ehtel Timak                               7   7   1   7   7   2     31
+             14 Mattias Siilbek            Tallinna Reaalkool                            10  Helen Kaasik                              7   7   6   0   7   3     30
+             15 Johannes Rebane            Viljandi Gümnaasium                           10  Malle Eglit                               7   7   1   6   7   –     28
+             16 Artemi Smõšljajev          Tallinna Tõnismäe Reaalkool                   9   Mihhail Gussev                            7   7   1   5   7   0     27
+             16 Karl-Ustav Kõlar           Tallinna Reaalkool                            8   Helen Kaasik                              7   7   0   4   4   5     27
+             18 Jakob Läänemets            Audru Kool                                    9   Ene Moppel                                7   5   0   7   7   –     26
+             19 Jevgeni Arefjev            Tallinna Mustjõe Gümnaasium                   10  Olga Volossova                            0   7   6   7   3   1     24
+             19 Mathias Robert Uibokant    Gustav Adolfi Gümnaasium                      10  Auli Reitel                               7   5   0   5   7   –     24
+             19 Karl Kristjan Puusepp      Hugo Treffneri Gümnaasium                     10  Ehtel Timak                               0   7   7   0   7   3     24
+             19 Ranel Savolainen           Viljandi Gümnaasium                           10  Malle Eglit                               7   7   0   7   –   3     24
+             19 Tamor Tomson               Kärdla Põhikool                               9   Anneli Salumaa                           7   7   0   7   –   3     24
+             24 Ats Marek Tender           Saue Gümnaasium                               10  Alli Salusaar                             0   7   1   7   7   1     23
+             24 Stefan Ehin                Hugo Treffneri Gümnaasium                     10  Ehtel Timak                               0   7   1   5   5   5     23
+             24 Uku Kütt                   Nõo Reaalgümnaasium                           10  Sirje Sild                                7   7   1   7   1   0     23
+             27 Oskar Villem Tiidemann     Gustav Adolfi Gümnaasium                      10  Auli Reitel                               7   7   1   7   0   –     22
+             27 Toomas Herodes             Miina Härma Gümnaasium                        9   Allar Aav                                7   7   0   4   –   4     22
+             29 Siim Tiivel                Tallinna Reaalkool                            10  Helen Kaasik                              0   7   1   5   7   1     21
+             29 Kristjan Tropp             Rakvere Gümnaasium                            10  Tiiu Laheveer                             0   7   0   7   7   0     21
+             29 Ants Kärner                Tallinna Reaalkool                            10  Helen Kaasik                              –   7   0   7   7   –     21
+             29 Karl Oskar Uibokant        Gustav Adolfi Gümnaasium                      8   Katrin Rohumaa                           7   7   6   –   –   1     21
+             29 Rasmus Lille               Anna Haava nimeline Pala Kool                 9   Merle Müür                               7   7   0   0   7   –     21
+             34 Peeter Pissarenko          Hugo Treffneri Gümnaasium                     10  Ehtel Timak                               7   7   0   5   1   –     20
+             35 Eke Tooming                Tallinna Reaalkool                            9   Helli Juurma                             0   7   3   7   1   0     18
+             35 Mattias Timm Rast          Elva Gümnaasium                               9   Anneli Nõlvak                            7   0   1   7   3   0     18
+             35 Hendrik Matvejev           Miina Härma Gümnaasium                        10  Tiiu Sasi                                 0   5   0   5   7   1     18
+             38 Henri Peterson            Tallinna Reaalkool                         9   Marge Kanne                            0   7   0   5   1   4    17
+             38 Ardi Raag                 Tallinna Reaalkool                         8   Helen Kaasik                           7   7   2   0   1   0    17
+             38 Andrei Mjastsov           Tallinna Linnamäe Vene Lütseum             10  Svetlana Ševtšenko                      0   4   0   6   7   0    17
+             38 Hans Gustav Kõljalg       Tartu Katoliku Hariduskeskus               9   Katrin Kokk                            6   7   0   0   1   3    17
+             42 Erik Jõevere              Tallinna Reaalkool                         10  Villu Raja                              7   4   0   4   –   –    15
+             42 Mathias Tempel            Tallinna Reaalkool                         9   Marge Kanne                            7   5   0   3   0   0    15
+             42 Kert Jalukse              Rapla Vesiroosi Kool                       9   Kati Kalda                             0   7   0   –   7   1    15
+             42 Hans Robert Kannukene     Tallinna Reaalkool                         8   Kerli Kupits                           0   7   0   5   1   2    15
+             42 Liisa Pata                Tallinna Reaalkool                         8   Andres Talts                           7   7   0   –   1   –    15
+             42 Mikk Rooden               Miina Härma Gümnaasium                     10  Tiiu Sasi                               0   7   0   0   7   1    15
+             42 Voldemar Kirss            Saaremaa Ühisgümnaasium                    10  Anu Ausmees                             0   7   0   7   1   0    15
+             49 Marten Rannut             Tallinna Reaalkool                         10  Helen Kaasik                            0   7   0   0   7   –    14
+             49 Allar-Joel Möldre         Tallinna Reaalkool                         8   Kerli Kupits                           0   7   0   4   1   2    14
+             49 Jasper Vähk               Vanalinna Hariduskolleegium                5   Lenneli Aasa, Pilve Uussaar            7   7   0   0   0   –    14
+             49 Jürgen Güsson             Tartu Kesklinna Kool                       8   Airi Raiste                            1   7   0   3   3   0    14
+             53 Mathias Siimon            Haabneeme Kool                             9   Silver Silm                            –   7   1   0   4   –    12
+             53 Karl Mattias Arulepp      Tallinna Reaalkool                         10  Andres Talts                            0   4   1   3   4   –    12
+             53 Keidi Käärmann            Tartu Veeriku Kool                         9   Ülle Puusepp                           –   5   0   –   7   0    12
+             53 Marek Ivanov              Narva Keeltelütseum                        9   Tatjana Makarenko                      0   5   0   0   7   0    12
+             53 Erik Kippus               Pärnu Sütevaka Humanitaargümnaasium        10  Margit Roomet                           7   0   0   4   1   0    12
+             58 Meriliis Täht             Tallinna Reaalkool                         8   Helen Kaasik                           7   4   0   –   –   –    11
+             58 Mariamne Reitsakas        Vanalinna Hariduskolleegium                8   Mare Padu, Jelizaveta Reitsakas        –   7   0   0   4   –    11
+             58 Arseni Tsõgankov          Tallinna Mustjõe Gümnaasium                10  Olga Volossova                          7   0   0   4   0   0    11
+             58 Rainis Puusepp            Tartu Veeriku Kool                         9   Ülle Puusepp                           0   7   4   –   0   –    11
+             58 Helen Talvistu            Viljandi Gümnaasium                        10  Malle Eglit                             7   1   0   3   –   0    11
+             63 Anna Latõševa             Tallinna Tõnismäe Reaalkool                8   Nadežda Kingisepp                      0   7   0   2   1   –    10
+             63 Emma Kruusmäe             Viljandi Jakobsoni Kool                    9   Kea Roosileht                          0   7   0   3   0   0    10
+             65 Andreas Põšnograjev       Tallinna Reaalkool                         10  Andres Talts                            0   7   1   –   1   –     9
+             65 Siim Ilison               Tallinna Reaalkool                         8   Andres Talts                           7   0   0   2   0   –     9
+             65 Kevin Akkermann           Miina Härma Gümnaasium                     9   Allar Aav                              –   4   5   –   0   –     9
+             65 Elena Bogdanova           Narva Vanalinna Riigikool                  10  Tatjana Mihhailova                      7   0   0   0   2   –     9
+             69 Marianne Mendel           Tallinna Õismäe Gümnaasium                 9   Sirje Soosalu                          7   0   0   0   1   0     8
+             69 Anni Jakobson             Tallinna Prantsuse Lütseum                 8   Anu Oks                                7   1   0   0   –   –     8
+             69 Polina Peterson           Viimsi Gümnaasium                          10  Eva Vihmaru                             0   5   0   3   0   0     8
+             69 Sander Simson             Tallinna Reaalkool                         9   Helli Juurma                           0   7   0   –   1   –     8
+             69 Imre Nõmm                 Anna Haava nimeline Pala Kool              9   Merle Müür                             7   0   0   0   1   0     8
+             69 Kert Lelov                Tartu Veeriku Kool                         8   Ülle Puusepp                           –   4   0   0   4   –     8
+             69 Kristian Tšassovskihh     Narva Soldino Gümnaasium                   10  Nina Ložkina                            –   5   0   –   1   2     8
+             69 Timur-Daniel Lagoda       Ahtme Põhikool                             8   Tatjana Misišina                       0   7   0   1   –   –     8
+             77 Arthur Harri Jaakko Antila  Audentese Erakool                         8   Ülle Hanni                             7   0   0   0   –   –     7
+             77 Kristjan Suuder           Kalamaja Põhikool                          9   Ingrid Kaups                           7   0   0   –   –   –     7
+             77 Artemi Sotskov            Tallinna Tõnismäe Reaalkool                10  Jelena Ait                              0   0   0   0   7   0     7
+              77 Daria Sitnikova            Tallinna Mustjõe Gümnaasium                  10  Olga Volossova                             0   0   0   0   7   –     7
+              77 Artjom Geimanen            Nõo Põhikool                                  8   Järveoja                                 0   7   0   0   –   –     7
+              77 Marko Peedosk              Tartu Kristjan Jaak Petersoni Gümnaasium     10  Imbi Koppel                                0   0   0   6   1   0     7
+              77 Oskar Krull                Tartu Kristjan Jaak Petersoni Gümnaasium     10  Imbi Koppel                                0   0   0   6   1   0     7
+              77 Richard-Mattias Prints     Pärnu Sütevaka Humanitaargümnaasium          10  Margit Roomet                              7   0   0   0   –   –     7
+              77 Arp Harald Tamm            Pärnu Sütevaka Humanitaargümnaasium           8   Margit Roomet                            0   7   0   –   –   –     7
+              86 Merilyn Kasemets           Tallinna Vaba Waldorfkool                    10  Sirje Tibar                                0   0   0   6   0   –     6
+              87 Martin Võip                Narva Soldino Gümnaasium                     10  Nina Ložkina                               0   0   0   4   1   0     5
+              88 Joonas Iisop Krosmann      Kalamaja Põhikool                             9   Ingrid Kaups                             –   4   0   0   0   –     4
+              88 Kaur Huko Käämbre          Nõo Põhikool                                  8   Helje Järveoja                           0   4   0   0   0   –     4
+              88 Ivar Peeling               Tartu Veeriku Kool                            8   Ülle Puusepp                             –   4   0   –   0   –     4
+              91 Risto Paju                 Pirita Majandusgümnaasium                     9   Katrin Aben                              0   0   0   0   3   0     3
