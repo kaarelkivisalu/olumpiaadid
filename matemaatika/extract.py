@@ -14,7 +14,7 @@ def extract_table(tbl_elem):
         out_rows.append(out_cols)
     return out_rows
 
-data = collections.defaultdict(lambda: [])
+data = collections.defaultdict(list)
 point_list = []
 
 other_class_markers = {
@@ -44,11 +44,23 @@ for x in os.listdir("pdf"):
             name = row[0]
             school = row[1]
             if len(row) == 9:
+                # print(row)
+                # 1/0
                 total_index = 7
+                rank = row[total_index+1]
+                teacher = None
             elif len(row) == 8:
+                # print(row)
+                # 1/0
+                teacher = None
+                rank = None
                 total_index = 7
             elif len(row) == 10:
+                # print(row)
+                # 1/0
+                teacher = row[2]
                 total_index = 8
+                rank = row[total_index+1]
             else:
                 continue
             ex_start_index = total_index - 5
@@ -84,6 +96,10 @@ for x in os.listdir("pdf"):
             if cls_special:
                 cls = int(cls_special[1])
                 name = re.sub(cls_regex, "", name).strip()
+            cls_special = re.search(cls_regex, school)
+            if cls_special:
+                cls = int(cls_special[1])
+                school = re.sub(cls_regex, "", school).strip()
             if name[-2:] == "**":
                 name = name[:-2]
             elif name[-1] == '*' and x in other_class_markers:
@@ -99,6 +115,8 @@ for x in os.listdir("pdf"):
                 "school":school,
                 "placement":placement,
                 "scores_per_ex": ex_pts,
+                "rank": rank,
+                "instructors": [teacher],
             })
             i += 1
     if skipped_rows > 3:

@@ -14,7 +14,9 @@ JSON failide formaat: object, kus on võtmed:
         "age_group" (vanuseklass, milles osaleja võistles),
         "score" (kui palju punkte koguti - olümpiaadidel, kus on punktiarvestus keerulisem, tuleks kasutada skoori mille järgi auhinnad anti),
         "placement" (mitmes koht oma vanuseklassis saavutati),
+        "rank" (mis järgu sai, kui sobilik),
         "school" (kool, milles õpilane võistluse ajal õppis),
+        "instructors" (list juhendajatest),
         "scores_per_ex" (punktid ülesannete kaupa - ülesannete nimed on age_groups'is)
 
 Näide: (2019. känguru tulemustest)
