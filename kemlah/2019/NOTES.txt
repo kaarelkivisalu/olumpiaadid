@@ -1,0 +1,6 @@
+PDFs from http://www.eko.ut.ee/pdf/open/klv26{n,v}rt.pdf
+split into single page ones (e.g. gs -sDEVICE=pdfwrite -dNOPAUSE -dBATCH -dFirstPage=2 -dLastPage=2 -sOutputFile=klv26vrt_p2.pdf klv26vrt.pdf)
+run through https://www.onlineocr.net with language estonian and format xlsx
+convert to CSV using e.g. libreoffice --headless --convert-to csv --outdir . *.xlsx
+check for typos in all the names (esp. with š, ž), remove headers/footers
+and run generate.py

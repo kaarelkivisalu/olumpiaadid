@@ -1,0 +1,65 @@
+                                  Eesti koolinoorte 21. keemia lahtine võistlus
+                             9. november 2013. a                                                Noorema rühma tulemused
+        Koht            Nimi            Klass                  Kool                        Õpetaja           123456Kokku
+                                                                                          Maksimum           8     8     12   10    11    11     60
+         1    Eva-Maria Tõnson            10 Hugo Treffneri Gümnaasium              Eha Paabo                8     8     10   9.5  6.75 7.75     50
+         2    Carel Kuusk                 9   Tallinna Prantsuse Lütseum            Marge Oopkaup            7     8     10   8.5    9   6.25   48.75
+         3    Oliver Kahre                10 Hugo Treffneri Gümnaasium              Eha Paabo, Helgi Muoni  7.5   7.5   10.5   7    7.5    8     48
+         4    Oliver Nisumaa              10 Tallinna Reaalkool                     Andrus Kangro            7     8     10   7.5  7.25   7.5   47.25
+         5    Elo Maria Pauman            10 Hugo Treffneri Gümnaasium              Eha Paabo                6   7.75   10.5  4.6    8   5.25   42.1
+         6    Airon Johannes Oravas       8   Tallinna Prantsuse Lütseum            Marge Oopkaup            4   7.75   10.5  4.7   7.5    6    40.45
+         7    Andres unt                  10 Tallinna Reaalkool                     Andrus Kangro            7     5     10   4.4  9.25 4.25    39.9
+         8    Svenno Saan                 10 Hugo Treffneri Gümnaasium              Eha Paabo                3     7     9    5.7  7.75 6.25    38.7
+         9    Markus Rene Pae             10 Gustav Adolfi Gümnaasium               Martin Saar             7.5    7     8    2.8  9.25    4    38.55
+         10   Aleksander Georg Kikas      10 Tallinna Reaalkool                     Andrus Kangro            7    7.5   8.5   3.8    8   3.25   38.05
+         11   Helo Liis Soodla            10 Pärnu Sütevaka Humanitaargümnaasium Evelin Laanemets            5     7     9    2.9    5    7.5   36.4
+         12   Rainer Vann                 10 Tallinna Reaalkool                     Andrus Kangro            7    6.5   11.5   0     6   4.25   35.25
+         13   Oliver Paberits             8   Gustav Adolfi Gümnaasium              Sirle Gja                8     8    3.5   5.2  8.25   1.5   34.45
+         14   Kaarel Hänni                8   Tallinna Prantsuse Lütseum            Marge Oopkaup            6    6.5   10.5  3.2   5.5   2.5   34.2
+         15   Ilja Zebergs                10 Tallinna Reaalkool                     Andrus Kangro            5    3.5    11    3    7.5  3.25   33.25
+         16   Pjotr Kruglov               10 Kohtla-Järve Ahtme gümnaasium          Anna Rassadina           5     7     10   2.8  4.75 3.25    32.8
+         17   Dmitri Suško                10 Tallinna Kesklinna Vene Gümnaasium     Liidia Teska             6     6     9    2.5   1.5  5.75   30.75
+         18   Gleb Stepanov               10 Ahtme Gümnaasium                       Anna Rassadina           0    7.5   9.5    1   9.25    2    29.25
+         19   Artur Risuhhin              10 Tallinna 53. Keskkool                  Vladimir Ossipov         7     4     9     0   3.25   5.5   28.75
+         20   Hendrik Rull                10 Hugo Treffneri Gümnaasium              Eha Paabo               6.5    7     10    0    3.5    1     28
+         21   Kirill Aleksandrov          10 Narva Humanitaargümnaasium             Nelya Avdeeva            6   4.25    10    0     3    4.5   27.75
+         22   Tanel Tark                  10 Hugo Treffneri Gümnaasium              Eha Paabo                7     7     10    0    1.5   1.5    27
+         23   Mihkel Talmar               10 Pärnu Sütevaka Humanitaargümnaasium Evelin Laanemets            2    6.5    7     2   1.75    6    25.25
+         24   Angelika Strelkova          10 Tallinna 53. Keskkool                  Vladimir Ossipov         1     7     4    0.5   5.5    6     24
+         25   Aaro Kristjuhan             9   Miina Härma Gümnaasium                Helle Sorge              5     8     8     0    1.5   1.5    24
+         26   Ivan Ivanenko               10 Tallinna Õismäe Vene Lütseum           Pelageja Ozerova         0    3.5   9.5    0     4    6.5   23.5
+         27   Annika Sarapuu              10 Pärnu Sütevaka Humanitaargümnaasium Evelin Laanemets            5     6    9.5          0   2.75   23.25
+         28   Aleksandr Illarionov        10 Ahtme Gümnaasium                       Anna Rassadina           6    6.5   6.5   0.5    2    1.5    23
+         29   Karl Markus Villemson       10 Hugo Treffneri Gümnaasium              Eha Paabo                4    6.5    7     0    1.5   3.5   22.5
+         30   Anita Kurm                  10 Tartu Annelinna Gümnaasium             Tatjana Ojavere          1    4.5    8    3.3   1.5   3.5   21.8
+         31   Andrus Vaarik               10 Nõo Reaalgümnaasium                    Aivar Vinne              7     5    2.5    1   2.75   2.5   20.75
+         32   Ailina Eglit                10 Ahtme Gümnaasium                       Anna Rassadina          0.5    6     8    0.5   2.5  3.25   20.75
+         33   Kirill Rodionov             10 Narva Humanitaargümnaasium             Nelya Avdeeva                 5.5   7.5   0.8         6.5   20.3
+         34   Matio Ansi                                                            Merike Teppan
+                       p                  10 Oskar Lutsu Palamuse Gümnaasium                                 1     7     7     0   3.25 1.25    19.5
+         35   Andreas Vija                9   Miina Härma Gümnaasium                Helle Sorge             4.5   0.5   8.5    0     3    2.5    19
+         36   Kaarel Ernits               10 Saaremaa Ühisgümnaasium                Raili Tamm               0    4.5    7           4    3.5    19
+         37   Elizavetta Krjukova         9   Pärnu Vene Gümnaasium                 Vera Smorgun             0    4.5   7.5         4.5    2    18.5
+        38  Oskar Soop               10 Talllinna Reaalkool               Andrus Kangro         4    1.5   4    0    8    0.5   18
+        39  Markos-Johannes Jõemets  10 Jüri Gümnaasium                   Maarika Avldi         62.5404016.5
+        40  Rene Kütt                9   Mustvee Gümnaasium               Ene Lüüs              0    5.5  3.5   0    5.5   2    16.5
+        41  Tatjana Klišova          10 Tallinna 53. Keskkool             Vladimir Ossipov      0     6   6.5   0   0.75   3   16.25
+        42  Maria Jemeljanova        10 Narva Humanitaargümnaasium        Nelya Avdeeva         1550 415
+        43  Silver Lansment          10 Pärnu Sütevaka Humanitaargümnaasium Evelin Laanemets    2    4.5  7.5   0          1    15
+        44  Lauri Leemet             10 Saaremaa Ühisgümnaasium           Raili Tamm            0    1.5   7         3    3.5   15
+        45  Sixten Alex Luik         9   Miina Härma Gümnaasium           Helle Sorge           0270314.5 2.5
+        46  Mihhail Mogutov          10 Narva Vanalinna Riigikool         Tatjana Jerošenko     0    3.5   5        4.25   1   13.75
+        47  Roland Kastein               Saaremaa 
+                                     9           Ühisgümnaasium           Raili Tamm            0     6    5    0    1.5 1.25  13.75
+        48  Maksim Romanjuk          9   Tallinna Õismäe Vene Lütseum     Pelageja Orerova      0     4   4.5   0    4     1    13.5
+        49  Laura Kaldjärv           10 Saaremaa Ühisgümnaasium           Raili Tamm           3.5   1.5   6    0.5  1.5   0    13
+        50  Deniza Šakirzjanova      9   Tallinna Õismäe Vene Lütseum     Pelageja Ozerova      0    2.5  4.5   0.5  1.5  1.5   10.5
+        51  Laura Rink               10 Nõo Reaalgümnaasium               Aivar Vinne           0    5.5   5    0          0    10.5
+        52  Hannes Jürgens           10 Jüri Gümnaasium                   Maarika Avldi         0    3.5  5.5   0    1          10
+        53  Mikk-Kaspar Tammi        9   Tartu Katoliku Hariduskeskus     Katrin Lõhmus         0    1.5   1    0   4.25   1    7.75
+        54  Juri Popov               10 Nõo Reaalgümnaasium               Aivar Vinne           1    4.5  0.5        0.5   0    6.5
+        55  Ilja Smirnov             9   Narva Humanitaargümnaasium       Maria Gvianidze       0    6.5        0               6.5
+        56  Hans Kristjan Muhel      10 Nõo Reaalgümnaasium               Aivar Vinne           0    3.5   1    0    1.5   0     6
+        57  Jekaterina Gorohhova     9   Narva Humanitaargümnaasium       Maria Gvianidze       0         1.5                   1.5
+        58  Sofia Zelnina            9   Tallinna Õismäe Vene Lütseum     Pelageja Ozerova      0010001
+        59  Mait Umalas              10 Koidula Gümnaasium                Merit Sarandi         01010
