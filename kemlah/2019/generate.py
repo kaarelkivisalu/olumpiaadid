@@ -31,7 +31,7 @@ def main():
                 except:
                     cls = None
                 school = row[3]
-                teacher = row[4].split(', ') if row[4] != '-' else None
+                teacher = row[4].split(', ') if row[4] != '-' else []
                 scores_per_ex = map(float, row[5:-1])
                 total_score = float(row[-1])
                 d = {
